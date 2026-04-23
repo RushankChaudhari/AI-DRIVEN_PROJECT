@@ -1,0 +1,1439 @@
+date,system_name,workload,response_time_ms,error_count,cpu_usage_percent,anomaly,anomaly_label
+2025-01-01,Hospital Management System,240,180.0,3,54,1,Normal
+2025-01-01,Electronic Health Record System,425,209.0,0,52,1,Normal
+2025-01-01,Appointment & Registration System,241,283.0,1,61,1,Normal
+2025-01-01,Hospital Network & Log Systems,2191,23.0,3,42,1,Normal
+2025-01-02,Hospital Management System,495,1288.0,52,70,-1,Anomaly
+2025-01-02,Electronic Health Record System,469,327.0,4,77,1,Normal
+2025-01-02,Appointment & Registration System,107,300.0,0,42,1,Normal
+2025-01-02,Hospital Network & Log Systems,1299,49.0,2,48,1,Normal
+2025-01-03,Hospital Management System,413,309.0,5,67,1,Normal
+2025-01-03,Electronic Health Record System,663,1657.0,59,55,-1,Anomaly
+2025-01-03,Appointment & Registration System,137,193.0,0,41,1,Normal
+2025-01-03,Hospital Network & Log Systems,1160,29.0,3,46,1,Normal
+2025-01-04,Hospital Management System,349,290.0,5,69,1,Normal
+2025-01-04,Electronic Health Record System,386,292.0,2,73,1,Normal
+2025-01-04,Appointment & Registration System,336,242.0,2,48,1,Normal
+2025-01-04,Hospital Network & Log Systems,1473,32.0,0,39,1,Normal
+2025-01-05,Hospital Management System,353,1956.0,42,64,-1,Anomaly
+2025-01-05,Electronic Health Record System,669,393.0,0,69,1,Normal
+2025-01-05,Appointment & Registration System,373,205.0,4,55,1,Normal
+2025-01-05,Hospital Network & Log Systems,1620,50.0,2,46,1,Normal
+2025-01-06,Hospital Management System,451,320.0,5,60,1,Normal
+2025-01-06,Electronic Health Record System,400,247.0,2,75,1,Normal
+2025-01-06,Appointment & Registration System,139,280.0,0,70,1,Normal
+2025-01-06,Hospital Network & Log Systems,1384,41.0,0,44,1,Normal
+2025-01-07,Hospital Management System,513,194.0,2,68,1,Normal
+2025-01-07,Electronic Health Record System,614,201.0,0,62,1,Normal
+2025-01-07,Appointment & Registration System,339,146.0,4,67,1,Normal
+2025-01-07,Hospital Network & Log Systems,1103,42.0,3,41,1,Normal
+2025-01-08,Hospital Management System,372,317.0,0,57,1,Normal
+2025-01-08,Electronic Health Record System,497,196.0,2,66,1,Normal
+2025-01-08,Appointment & Registration System,368,169.0,0,59,1,Normal
+2025-01-08,Hospital Network & Log Systems,1986,41.0,3,35,1,Normal
+2025-01-09,Hospital Management System,552,297.0,0,64,1,Normal
+2025-01-09,Electronic Health Record System,346,345.0,1,74,1,Normal
+2025-01-09,Appointment & Registration System,341,168.0,4,66,1,Normal
+2025-01-09,Hospital Network & Log Systems,1499,19.0,3,63,1,Normal
+2025-01-10,Hospital Management System,268,310.0,4,52,1,Normal
+2025-01-10,Electronic Health Record System,383,277.0,2,59,1,Normal
+2025-01-10,Appointment & Registration System,233,253.0,0,42,1,Normal
+2025-01-10,Hospital Network & Log Systems,2143,10.0,0,46,1,Normal
+2025-01-11,Hospital Management System,396,271.0,3,67,1,Normal
+2025-01-11,Electronic Health Record System,587,389.0,2,78,1,Normal
+2025-01-11,Appointment & Registration System,190,275.0,2,48,1,Normal
+2025-01-11,Hospital Network & Log Systems,2200,18.0,0,41,1,Normal
+2025-01-12,Hospital Management System,331,334.0,5,69,1,Normal
+2025-01-12,Electronic Health Record System,383,233.0,4,78,1,Normal
+2025-01-12,Appointment & Registration System,298,248.0,0,42,1,Normal
+2025-01-12,Hospital Network & Log Systems,2770,18.0,3,62,-1,Anomaly
+2025-01-13,Hospital Management System,590,285.0,4,71,1,Normal
+2025-01-13,Electronic Health Record System,532,334.0,4,68,1,Normal
+2025-01-13,Appointment & Registration System,310,247.0,0,44,1,Normal
+2025-01-13,Hospital Network & Log Systems,1629,21.0,3,32,1,Normal
+2025-01-14,Hospital Management System,210,186.0,0,75,1,Normal
+2025-01-14,Electronic Health Record System,630,378.0,6,55,1,Normal
+2025-01-14,Appointment & Registration System,223,129.0,3,63,1,Normal
+2025-01-14,Hospital Network & Log Systems,2868,40.0,1,43,1,Normal
+2025-01-15,Hospital Management System,203,330.0,4,61,1,Normal
+2025-01-15,Electronic Health Record System,533,252.0,3,65,1,Normal
+2025-01-15,Appointment & Registration System,101,139.0,1,49,1,Normal
+2025-01-15,Hospital Network & Log Systems,1475,47.0,0,31,-1,Anomaly
+2025-01-16,Hospital Management System,268,257.0,3,51,1,Normal
+2025-01-16,Electronic Health Record System,721,290.0,5,56,1,Normal
+2025-01-16,Appointment & Registration System,102,147.0,2,64,1,Normal
+2025-01-16,Hospital Network & Log Systems,2048,39.0,1,33,1,Normal
+2025-01-17,Hospital Management System,589,200.0,2,66,1,Normal
+2025-01-17,Electronic Health Record System,515,388.0,5,58,1,Normal
+2025-01-17,Appointment & Registration System,212,209.0,4,55,1,Normal
+2025-01-17,Hospital Network & Log Systems,2221,10.0,1,33,1,Normal
+2025-01-18,Hospital Management System,269,170.0,4,54,1,Normal
+2025-01-18,Electronic Health Record System,634,383.0,6,65,1,Normal
+2025-01-18,Appointment & Registration System,338,199.0,0,47,1,Normal
+2025-01-18,Hospital Network & Log Systems,2193,23.0,3,37,1,Normal
+2025-01-19,Hospital Management System,598,285.0,0,59,1,Normal
+2025-01-19,Electronic Health Record System,573,291.0,0,67,1,Normal
+2025-01-19,Appointment & Registration System,299,224.0,2,58,1,Normal
+2025-01-19,Hospital Network & Log Systems,1990,43.0,0,36,1,Normal
+2025-01-20,Hospital Management System,534,237.0,3,67,1,Normal
+2025-01-20,Electronic Health Record System,774,377.0,4,59,1,Normal
+2025-01-20,Appointment & Registration System,291,161.0,4,62,1,Normal
+2025-01-20,Hospital Network & Log Systems,1495,47.0,2,43,1,Normal
+2025-01-21,Hospital Management System,309,243.0,3,51,1,Normal
+2025-01-21,Electronic Health Record System,646,219.0,3,61,1,Normal
+2025-01-21,Appointment & Registration System,132,241.0,2,40,1,Normal
+2025-01-21,Hospital Network & Log Systems,2677,17.0,2,38,1,Normal
+2025-01-22,Hospital Management System,344,348.0,2,66,1,Normal
+2025-01-22,Electronic Health Record System,629,186.0,4,74,1,Normal
+2025-01-22,Appointment & Registration System,221,150.0,0,64,1,Normal
+2025-01-22,Hospital Network & Log Systems,2750,15.0,0,37,1,Normal
+2025-01-23,Hospital Management System,217,330.0,0,48,1,Normal
+2025-01-23,Electronic Health Record System,724,303.0,2,66,1,Normal
+2025-01-23,Appointment & Registration System,171,129.0,4,62,1,Normal
+2025-01-23,Hospital Network & Log Systems,2315,41.0,0,57,1,Normal
+2025-01-24,Hospital Management System,566,199.0,4,60,1,Normal
+2025-01-24,Electronic Health Record System,715,245.0,2,71,1,Normal
+2025-01-24,Appointment & Registration System,200,280.0,0,68,1,Normal
+2025-01-24,Hospital Network & Log Systems,2924,32.0,1,54,1,Normal
+2025-01-25,Hospital Management System,350,235.0,5,46,1,Normal
+2025-01-25,Electronic Health Record System,347,315.0,2,64,1,Normal
+2025-01-25,Appointment & Registration System,379,144.0,4,67,1,Normal
+2025-01-25,Hospital Network & Log Systems,1177,21.0,3,51,1,Normal
+2025-01-26,Hospital Management System,545,302.0,0,62,1,Normal
+2025-01-26,Electronic Health Record System,635,354.0,2,68,1,Normal
+2025-01-26,Appointment & Registration System,336,266.0,1,67,1,Normal
+2025-01-26,Hospital Network & Log Systems,1962,13.0,0,37,1,Normal
+2025-01-27,Hospital Management System,208,231.0,3,49,1,Normal
+2025-01-27,Electronic Health Record System,655,182.0,6,50,1,Normal
+2025-01-27,Appointment & Registration System,390,222.0,2,66,1,Normal
+2025-01-28,Hospital Management System,228,226.0,1,71,1,Normal
+2025-01-28,Electronic Health Record System,601,369.0,3,51,1,Normal
+2025-01-28,Appointment & Registration System,268,164.0,0,55,1,Normal
+2025-01-28,Hospital Network & Log Systems,2893,22.0,3,48,1,Normal
+2025-01-29,Hospital Management System,202,182.0,0,59,1,Normal
+2025-01-29,Electronic Health Record System,443,216.0,4,51,1,Normal
+2025-01-29,Appointment & Registration System,203,291.0,0,65,1,Normal
+2025-01-29,Hospital Network & Log Systems,2739,33.0,0,35,-1,Anomaly
+2025-01-30,Hospital Management System,520,337.0,0,46,1,Normal
+2025-01-30,Electronic Health Record System,745,304.0,5,72,1,Normal
+2025-01-30,Appointment & Registration System,363,199.0,3,43,1,Normal
+2025-01-30,Hospital Network & Log Systems,1177,49.0,3,52,1,Normal
+2025-01-31,Hospital Management System,234,310.0,4,65,1,Normal
+2025-01-31,Electronic Health Record System,778,354.0,0,73,1,Normal
+2025-01-31,Appointment & Registration System,343,227.0,3,40,1,Normal
+2025-01-31,Hospital Network & Log Systems,2298,35.0,1,47,1,Normal
+2025-02-01,Hospital Management System,541,1150.0,51,73,-1,Anomaly
+2025-02-01,Electronic Health Record System,430,363.0,6,50,1,Normal
+2025-02-01,Appointment & Registration System,154,167.0,2,42,1,Normal
+2025-02-01,Hospital Network & Log Systems,2949,22.0,3,37,-1,Anomaly
+2025-02-02,Hospital Management System,272,302.0,5,70,1,Normal
+2025-02-02,Electronic Health Record System,371,329.0,1,75,1,Normal
+2025-02-02,Appointment & Registration System,300,215.0,4,44,1,Normal
+2025-02-02,Hospital Network & Log Systems,1675,28.0,1,41,1,Normal
+2025-02-03,Hospital Management System,267,186.0,2,73,1,Normal
+2025-02-03,Electronic Health Record System,356,293.0,1,51,1,Normal
+2025-02-03,Appointment & Registration System,335,131.0,4,48,1,Normal
+2025-02-03,Hospital Network & Log Systems,1663,48.0,0,54,1,Normal
+2025-02-04,Hospital Management System,215,290.0,1,49,1,Normal
+2025-02-04,Electronic Health Record System,494,226.0,6,62,1,Normal
+2025-02-04,Appointment & Registration System,355,258.0,4,49,1,Normal
+2025-02-04,Hospital Network & Log Systems,1244,50.0,3,47,1,Normal
+2025-02-05,Hospital Management System,493,217.0,2,67,1,Normal
+2025-02-05,Electronic Health Record System,610,223.0,2,60,1,Normal
+2025-02-05,Appointment & Registration System,193,185.0,3,43,1,Normal
+2025-02-05,Hospital Network & Log Systems,2259,50.0,3,61,1,Normal
+2025-02-06,Hospital Management System,591,264.0,5,75,1,Normal
+2025-02-06,Electronic Health Record System,507,269.0,6,64,1,Normal
+2025-02-06,Appointment & Registration System,289,292.0,2,68,1,Normal
+2025-02-06,Hospital Network & Log Systems,1254,15.0,1,40,1,Normal
+2025-02-07,Hospital Management System,600,326.0,0,75,1,Normal
+2025-02-07,Electronic Health Record System,711,348.0,3,55,1,Normal
+2025-02-07,Appointment & Registration System,394,236.0,2,52,1,Normal
+2025-02-07,Hospital Network & Log Systems,2429,29.0,2,38,1,Normal
+2025-02-08,Hospital Management System,548,191.0,4,55,1,Normal
+2025-02-08,Electronic Health Record System,630,367.0,2,61,1,Normal
+2025-02-08,Appointment & Registration System,400,1558.0,1,96,-1,Anomaly
+2025-02-08,Hospital Network & Log Systems,1356,41.0,3,65,1,Normal
+2025-02-09,Hospital Management System,373,204.0,5,72,1,Normal
+2025-02-09,Electronic Health Record System,300,387.0,5,78,1,Normal
+2025-02-09,Appointment & Registration System,325,154.0,4,51,1,Normal
+2025-02-09,Hospital Network & Log Systems,1935,11.0,2,36,1,Normal
+2025-02-10,Hospital Management System,365,182.0,0,65,1,Normal
+2025-02-10,Electronic Health Record System,510,264.0,0,61,1,Normal
+2025-02-10,Appointment & Registration System,111,139.0,1,70,1,Normal
+2025-02-10,Hospital Network & Log Systems,1726,14.0,1,30,-1,Anomaly
+2025-02-11,Hospital Management System,557,260.0,5,75,1,Normal
+2025-02-11,Electronic Health Record System,705,192.0,6,80,1,Normal
+2025-02-11,Appointment & Registration System,145,174.0,0,68,1,Normal
+2025-02-11,Hospital Network & Log Systems,1637,16.0,2,49,1,Normal
+2025-02-12,Hospital Management System,477,302.0,2,64,1,Normal
+2025-02-12,Electronic Health Record System,441,298.0,0,58,1,Normal
+2025-02-12,Appointment & Registration System,122,276.0,4,67,1,Normal
+2025-02-12,Hospital Network & Log Systems,1063,21.0,3,61,1,Normal
+2025-02-13,Hospital Management System,422,213.0,4,59,1,Normal
+2025-02-13,Electronic Health Record System,376,250.0,5,78,1,Normal
+2025-02-13,Appointment & Registration System,350,134.0,2,48,1,Normal
+2025-02-13,Hospital Network & Log Systems,2165,31.0,0,51,1,Normal
+2025-02-14,Hospital Management System,308,223.0,3,54,1,Normal
+2025-02-14,Electronic Health Record System,326,268.0,0,72,1,Normal
+2025-02-14,Appointment & Registration System,380,282.0,0,68,1,Normal
+2025-02-14,Hospital Network & Log Systems,5692,1505.0,2,95,-1,Anomaly
+2025-02-15,Hospital Management System,344,191.0,1,72,1,Normal
+2025-02-15,Electronic Health Record System,610,315.0,2,80,1,Normal
+2025-02-15,Appointment & Registration System,269,201.0,3,56,1,Normal
+2025-02-15,Hospital Network & Log Systems,1818,31.0,1,47,1,Normal
+2025-02-16,Hospital Management System,278,300.0,0,69,1,Normal
+2025-02-16,Electronic Health Record System,362,316.0,3,61,1,Normal
+2025-02-16,Appointment & Registration System,216,189.0,1,64,1,Normal
+2025-02-16,Hospital Network & Log Systems,2802,27.0,2,56,1,Normal
+2025-02-17,Hospital Management System,479,339.0,2,59,1,Normal
+2025-02-17,Electronic Health Record System,787,237.0,4,63,1,Normal
+2025-02-17,Appointment & Registration System,123,128.0,2,42,1,Normal
+2025-02-17,Hospital Network & Log Systems,2088,47.0,1,52,1,Normal
+2025-02-18,Hospital Management System,577,255.0,1,46,1,Normal
+2025-02-18,Electronic Health Record System,471,311.0,3,75,1,Normal
+2025-02-18,Appointment & Registration System,349,188.0,1,67,1,Normal
+2025-02-18,Hospital Network & Log Systems,1845,48.0,2,33,1,Normal
+2025-02-19,Hospital Management System,221,332.0,2,67,1,Normal
+2025-02-19,Electronic Health Record System,417,362.0,3,73,1,Normal
+2025-02-19,Appointment & Registration System,352,237.0,1,56,1,Normal
+2025-02-19,Hospital Network & Log Systems,1377,49.0,2,34,1,Normal
+2025-02-20,Hospital Management System,324,330.0,0,73,1,Normal
+2025-02-20,Electronic Health Record System,689,239.0,2,76,1,Normal
+2025-02-20,Appointment & Registration System,349,209.0,0,54,1,Normal
+2025-02-20,Hospital Network & Log Systems,1503,35.0,1,63,1,Normal
+2025-02-21,Hospital Management System,457,302.0,0,57,1,Normal
+2025-02-21,Electronic Health Record System,640,380.0,2,52,1,Normal
+2025-02-21,Appointment & Registration System,197,155.0,0,63,1,Normal
+2025-02-21,Hospital Network & Log Systems,2496,11.0,1,62,1,Normal
+2025-02-22,Hospital Management System,326,267.0,2,72,1,Normal
+2025-02-22,Electronic Health Record System,471,241.0,0,75,1,Normal
+2025-02-22,Appointment & Registration System,332,203.0,0,59,1,Normal
+2025-02-22,Hospital Network & Log Systems,2649,41.0,0,62,1,Normal
+2025-02-23,Hospital Management System,556,2251.0,0,99,-1,Anomaly
+2025-02-23,Electronic Health Record System,491,259.0,3,80,1,Normal
+2025-02-23,Appointment & Registration System,324,173.0,4,65,1,Normal
+2025-02-23,Hospital Network & Log Systems,2009,24.0,3,35,1,Normal
+2025-02-24,Hospital Management System,257,183.0,0,64,1,Normal
+2025-02-24,Electronic Health Record System,660,227.0,2,69,1,Normal
+2025-02-24,Appointment & Registration System,123,290.0,3,50,1,Normal
+2025-02-24,Hospital Network & Log Systems,2355,33.0,0,56,1,Normal
+2025-02-25,Hospital Management System,488,325.0,2,61,1,Normal
+2025-02-25,Electronic Health Record System,389,320.0,2,69,1,Normal
+2025-02-25,Appointment & Registration System,218,131.0,2,44,1,Normal
+2025-02-25,Hospital Network & Log Systems,2922,36.0,3,57,1,Normal
+2025-02-26,Hospital Management System,406,345.0,3,57,1,Normal
+2025-02-26,Electronic Health Record System,375,318.0,4,79,1,Normal
+2025-02-26,Appointment & Registration System,171,278.0,1,63,1,Normal
+2025-02-26,Hospital Network & Log Systems,2835,45.0,2,31,-1,Anomaly
+2025-02-27,Hospital Management System,211,203.0,3,67,1,Normal
+2025-02-27,Electronic Health Record System,742,282.0,1,78,1,Normal
+2025-02-27,Appointment & Registration System,392,222.0,3,49,1,Normal
+2025-02-27,Hospital Network & Log Systems,1031,36.0,0,58,1,Normal
+2025-02-28,Hospital Management System,458,1303.0,52,58,-1,Anomaly
+2025-02-28,Electronic Health Record System,654,338.0,3,67,1,Normal
+2025-02-28,Appointment & Registration System,295,194.0,0,56,1,Normal
+2025-02-28,Hospital Network & Log Systems,1478,26.0,3,41,1,Normal
+2025-03-01,Hospital Management System,476,304.0,3,73,1,Normal
+2025-03-01,Electronic Health Record System,496,306.0,3,59,1,Normal
+2025-03-01,Appointment & Registration System,237,222.0,1,68,1,Normal
+2025-03-01,Hospital Network & Log Systems,1641,18.0,0,61,1,Normal
+2025-03-02,Hospital Management System,283,267.0,2,51,1,Normal
+2025-03-02,Electronic Health Record System,577,347.0,2,58,1,Normal
+2025-03-02,Appointment & Registration System,122,204.0,3,62,1,Normal
+2025-03-02,Hospital Network & Log Systems,2532,41.0,0,35,-1,Anomaly
+2025-03-03,Electronic Health Record System,576,286.0,4,58,1,Normal
+2025-03-03,Appointment & Registration System,177,169.0,0,59,1,Normal
+2025-03-03,Hospital Network & Log Systems,1397,39.0,2,47,1,Normal
+2025-03-04,Hospital Management System,202,326.0,3,64,1,Normal
+2025-03-04,Electronic Health Record System,700,261.0,5,61,1,Normal
+2025-03-04,Appointment & Registration System,260,283.0,1,47,1,Normal
+2025-03-04,Hospital Network & Log Systems,2688,47.0,3,58,1,Normal
+2025-03-05,Hospital Management System,480,211.0,2,69,1,Normal
+2025-03-05,Electronic Health Record System,594,214.0,5,71,1,Normal
+2025-03-05,Appointment & Registration System,376,236.0,3,44,1,Normal
+2025-03-05,Hospital Network & Log Systems,2835,38.0,3,65,-1,Anomaly
+2025-03-06,Hospital Management System,494,204.0,2,64,1,Normal
+2025-03-06,Electronic Health Record System,443,241.0,1,52,1,Normal
+2025-03-06,Appointment & Registration System,320,151.0,0,41,1,Normal
+2025-03-06,Hospital Network & Log Systems,2180,39.0,3,41,1,Normal
+2025-03-07,Hospital Management System,283,164.0,4,47,1,Normal
+2025-03-07,Electronic Health Record System,496,319.0,0,60,1,Normal
+2025-03-07,Appointment & Registration System,395,228.0,0,63,1,Normal
+2025-03-07,Hospital Network & Log Systems,2173,10.0,3,58,1,Normal
+2025-03-08,Hospital Management System,317,2615.0,0,48,-1,Anomaly
+2025-03-08,Electronic Health Record System,321,377.0,6,52,1,Normal
+2025-03-08,Appointment & Registration System,205,287.0,4,68,1,Normal
+2025-03-08,Hospital Network & Log Systems,1836,37.0,3,42,1,Normal
+2025-03-09,Hospital Management System,382,184.0,3,45,1,Normal
+2025-03-09,Electronic Health Record System,510,302.0,2,62,1,Normal
+2025-03-09,Appointment & Registration System,356,270.0,2,60,1,Normal
+2025-03-09,Hospital Network & Log Systems,2963,29.0,1,37,1,Normal
+2025-03-10,Hospital Management System,207,248.0,4,48,1,Normal
+2025-03-10,Electronic Health Record System,629,366.0,2,62,1,Normal
+2025-03-10,Appointment & Registration System,127,120.0,2,42,1,Normal
+2025-03-10,Hospital Network & Log Systems,1897,10.0,0,43,1,Normal
+2025-03-11,Hospital Management System,219,305.0,4,45,1,Normal
+2025-03-11,Electronic Health Record System,554,266.0,4,67,1,Normal
+2025-03-11,Appointment & Registration System,130,149.0,0,69,1,Normal
+2025-03-11,Hospital Network & Log Systems,1316,31.0,3,45,1,Normal
+2025-03-12,Hospital Management System,204,268.0,4,61,1,Normal
+2025-03-12,Electronic Health Record System,366,266.0,5,55,1,Normal
+2025-03-12,Appointment & Registration System,100,285.0,4,62,1,Normal
+2025-03-12,Hospital Network & Log Systems,1174,26.0,1,60,1,Normal
+2025-03-13,Hospital Management System,465,211.0,5,71,1,Normal
+2025-03-13,Electronic Health Record System,362,359.0,3,66,1,Normal
+2025-03-13,Appointment & Registration System,260,271.0,2,40,1,Normal
+2025-03-13,Hospital Network & Log Systems,2931,20.0,3,41,1,Normal
+2025-03-14,Hospital Management System,332,295.0,5,72,1,Normal
+2025-03-14,Electronic Health Record System,363,245.0,3,67,1,Normal
+2025-03-14,Appointment & Registration System,196,143.0,1,41,1,Normal
+2025-03-14,Hospital Network & Log Systems,2721,48.0,0,60,1,Normal
+2025-03-15,Hospital Management System,522,298.0,1,56,1,Normal
+2025-03-15,Electronic Health Record System,701,233.0,3,65,1,Normal
+2025-03-15,Appointment & Registration System,302,289.0,3,45,1,Normal
+2025-03-15,Hospital Network & Log Systems,1365,35.0,3,40,1,Normal
+2025-03-16,Hospital Management System,223,204.0,2,46,1,Normal
+2025-03-16,Electronic Health Record System,713,396.0,4,78,1,Normal
+2025-03-16,Appointment & Registration System,399,261.0,0,70,1,Normal
+2025-03-16,Hospital Network & Log Systems,2210,22.0,1,60,1,Normal
+2025-03-17,Hospital Management System,233,197.0,1,51,1,Normal
+2025-03-17,Electronic Health Record System,676,281.0,6,56,1,Normal
+2025-03-17,Appointment & Registration System,377,124.0,4,59,1,Normal
+2025-03-17,Hospital Network & Log Systems,2550,29.0,2,35,1,Normal
+2025-03-18,Hospital Management System,254,202.0,0,66,1,Normal
+2025-03-18,Electronic Health Record System,559,204.0,3,55,1,Normal
+2025-03-18,Appointment & Registration System,128,147.0,4,42,1,Normal
+2025-03-18,Hospital Network & Log Systems,2683,31.0,1,42,1,Normal
+2025-03-19,Hospital Management System,237,308.0,1,47,1,Normal
+2025-03-19,Electronic Health Record System,836,1836.0,4,97,-1,Anomaly
+2025-03-19,Appointment & Registration System,197,160.0,0,62,1,Normal
+2025-03-19,Hospital Network & Log Systems,1308,24.0,3,35,1,Normal
+2025-03-20,Hospital Management System,504,195.0,0,57,1,Normal
+2025-03-20,Electronic Health Record System,548,257.0,6,75,1,Normal
+2025-03-20,Appointment & Registration System,365,267.0,0,40,1,Normal
+2025-03-20,Hospital Network & Log Systems,1626,46.0,2,57,1,Normal
+2025-03-21,Hospital Management System,505,258.0,3,55,1,Normal
+2025-03-21,Electronic Health Record System,765,259.0,4,76,1,Normal
+2025-03-21,Appointment & Registration System,335,140.0,4,67,1,Normal
+2025-03-21,Hospital Network & Log Systems,2951,25.0,2,33,-1,Anomaly
+2025-03-22,Hospital Management System,545,242.0,4,61,1,Normal
+2025-03-22,Appointment & Registration System,357,132.0,3,44,1,Normal
+2025-03-22,Hospital Network & Log Systems,2599,19.0,1,57,1,Normal
+2025-03-23,Hospital Management System,546,175.0,2,61,1,Normal
+2025-03-23,Electronic Health Record System,392,386.0,5,53,1,Normal
+2025-03-23,Appointment & Registration System,106,144.0,4,53,1,Normal
+2025-03-23,Hospital Network & Log Systems,1363,49.0,0,61,1,Normal
+2025-03-24,Hospital Management System,565,305.0,0,58,1,Normal
+2025-03-24,Electronic Health Record System,610,214.0,2,55,1,Normal
+2025-03-24,Appointment & Registration System,363,169.0,1,55,1,Normal
+2025-03-24,Hospital Network & Log Systems,1693,46.0,1,35,1,Normal
+2025-03-25,Hospital Management System,354,193.0,2,63,1,Normal
+2025-03-25,Electronic Health Record System,698,255.0,1,57,1,Normal
+2025-03-25,Appointment & Registration System,263,143.0,1,68,1,Normal
+2025-03-26,Hospital Management System,272,305.0,3,46,1,Normal
+2025-03-26,Electronic Health Record System,369,197.0,4,75,1,Normal
+2025-03-26,Appointment & Registration System,202,229.0,3,58,1,Normal
+2025-03-26,Hospital Network & Log Systems,2624,40.0,3,38,1,Normal
+2025-03-27,Hospital Management System,471,280.0,3,51,1,Normal
+2025-03-27,Electronic Health Record System,610,220.0,0,64,1,Normal
+2025-03-27,Appointment & Registration System,203,226.0,4,48,1,Normal
+2025-03-27,Hospital Network & Log Systems,2670,26.0,1,62,1,Normal
+2025-03-28,Hospital Management System,545,255.0,4,45,1,Normal
+2025-03-28,Electronic Health Record System,398,296.0,0,53,1,Normal
+2025-03-28,Appointment & Registration System,247,276.0,2,67,1,Normal
+2025-03-28,Hospital Network & Log Systems,2828,14.0,2,46,1,Normal
+2025-03-29,Hospital Management System,294,206.0,4,66,1,Normal
+2025-03-29,Electronic Health Record System,364,258.0,5,51,1,Normal
+2025-03-29,Appointment & Registration System,346,225.0,1,51,1,Normal
+2025-03-29,Hospital Network & Log Systems,2016,43.0,2,30,1,Normal
+2025-03-30,Hospital Management System,417,208.0,2,75,1,Normal
+2025-03-30,Electronic Health Record System,478,212.0,6,54,1,Normal
+2025-03-30,Appointment & Registration System,375,122.0,2,58,1,Normal
+2025-03-30,Hospital Network & Log Systems,1396,2629.0,3,32,-1,Anomaly
+2025-03-31,Hospital Management System,328,291.0,0,53,1,Normal
+2025-03-31,Electronic Health Record System,631,382.0,3,67,1,Normal
+2025-03-31,Appointment & Registration System,268,230.0,2,54,1,Normal
+2025-03-31,Hospital Network & Log Systems,1131,11.0,3,32,1,Normal
+2025-04-01,Electronic Health Record System,729,281.0,0,79,1,Normal
+2025-04-01,Appointment & Registration System,254,219.0,4,42,1,Normal
+2025-04-01,Hospital Network & Log Systems,1760,25.0,3,48,1,Normal
+2025-04-02,Hospital Management System,318,274.0,1,56,1,Normal
+2025-04-02,Electronic Health Record System,598,276.0,3,68,1,Normal
+2025-04-02,Appointment & Registration System,145,299.0,0,48,1,Normal
+2025-04-02,Hospital Network & Log Systems,2911,39.0,1,51,1,Normal
+2025-04-03,Electronic Health Record System,381,193.0,3,54,1,Normal
+2025-04-03,Appointment & Registration System,360,183.0,0,40,1,Normal
+2025-04-03,Hospital Network & Log Systems,1342,28.0,2,34,1,Normal
+2025-04-04,Hospital Management System,445,315.0,1,45,1,Normal
+2025-04-04,Electronic Health Record System,761,185.0,1,53,1,Normal
+2025-04-04,Appointment & Registration System,120,185.0,4,67,1,Normal
+2025-04-04,Hospital Network & Log Systems,1941,23.0,2,58,1,Normal
+2025-04-05,Hospital Management System,292,222.0,3,68,1,Normal
+2025-04-05,Electronic Health Record System,617,394.0,4,61,1,Normal
+2025-04-05,Appointment & Registration System,197,130.0,0,64,1,Normal
+2025-04-05,Hospital Network & Log Systems,2878,20.0,2,61,1,Normal
+2025-04-06,Hospital Management System,447,161.0,2,48,1,Normal
+2025-04-06,Electronic Health Record System,361,208.0,0,68,1,Normal
+2025-04-06,Appointment & Registration System,212,243.0,0,57,1,Normal
+2025-04-06,Hospital Network & Log Systems,1067,15.0,3,59,1,Normal
+2025-04-07,Hospital Management System,207,183.0,3,69,1,Normal
+2025-04-07,Electronic Health Record System,394,326.0,3,63,1,Normal
+2025-04-07,Appointment & Registration System,249,148.0,1,65,1,Normal
+2025-04-07,Hospital Network & Log Systems,2746,33.0,2,33,1,Normal
+2025-04-08,Hospital Management System,518,192.0,1,75,1,Normal
+2025-04-08,Electronic Health Record System,465,323.0,1,62,1,Normal
+2025-04-08,Appointment & Registration System,214,269.0,4,62,1,Normal
+2025-04-08,Hospital Network & Log Systems,1448,42.0,3,48,1,Normal
+2025-04-09,Hospital Management System,571,176.0,5,56,1,Normal
+2025-04-09,Electronic Health Record System,756,289.0,6,57,1,Normal
+2025-04-09,Hospital Network & Log Systems,1466,29.0,3,52,1,Normal
+2025-04-10,Hospital Management System,410,168.0,1,46,1,Normal
+2025-04-10,Electronic Health Record System,652,336.0,1,66,1,Normal
+2025-04-10,Appointment & Registration System,203,157.0,4,56,1,Normal
+2025-04-10,Hospital Network & Log Systems,2276,31.0,3,34,1,Normal
+2025-04-11,Hospital Management System,240,206.0,4,59,1,Normal
+2025-04-11,Electronic Health Record System,334,372.0,6,54,1,Normal
+2025-04-11,Appointment & Registration System,145,194.0,4,44,1,Normal
+2025-04-11,Hospital Network & Log Systems,1941,38.0,3,60,1,Normal
+2025-04-12,Hospital Management System,214,197.0,5,56,1,Normal
+2025-04-12,Electronic Health Record System,650,243.0,2,60,1,Normal
+2025-04-12,Appointment & Registration System,232,241.0,4,45,1,Normal
+2025-04-12,Hospital Network & Log Systems,1684,42.0,1,56,1,Normal
+2025-04-13,Hospital Management System,558,343.0,1,62,1,Normal
+2025-04-13,Electronic Health Record System,714,312.0,6,79,1,Normal
+2025-04-13,Appointment & Registration System,179,199.0,1,65,1,Normal
+2025-04-13,Hospital Network & Log Systems,1838,34.0,0,48,1,Normal
+2025-04-14,Hospital Management System,239,201.0,3,75,1,Normal
+2025-04-14,Electronic Health Record System,775,298.0,6,74,1,Normal
+2025-04-14,Appointment & Registration System,335,259.0,4,40,1,Normal
+2025-04-14,Hospital Network & Log Systems,1370,37.0,3,59,1,Normal
+2025-04-15,Hospital Management System,332,196.0,4,55,1,Normal
+2025-04-15,Electronic Health Record System,549,282.0,0,76,1,Normal
+2025-04-15,Appointment & Registration System,299,209.0,0,55,1,Normal
+2025-04-15,Hospital Network & Log Systems,1030,44.0,2,43,1,Normal
+2025-04-16,Hospital Management System,252,200.0,5,46,1,Normal
+2025-04-16,Electronic Health Record System,389,325.0,2,56,1,Normal
+2025-04-16,Appointment & Registration System,215,175.0,0,41,1,Normal
+2025-04-17,Hospital Management System,272,209.0,4,71,1,Normal
+2025-04-17,Electronic Health Record System,362,329.0,6,61,1,Normal
+2025-04-17,Appointment & Registration System,264,171.0,0,70,1,Normal
+2025-04-17,Hospital Network & Log Systems,1037,20.0,1,35,1,Normal
+2025-04-18,Hospital Management System,522,241.0,5,75,1,Normal
+2025-04-18,Electronic Health Record System,769,217.0,4,69,1,Normal
+2025-04-18,Appointment & Registration System,132,215.0,0,50,1,Normal
+2025-04-18,Hospital Network & Log Systems,2082,41.0,0,55,1,Normal
+2025-04-19,Hospital Management System,534,166.0,0,71,1,Normal
+2025-04-19,Electronic Health Record System,335,358.0,3,69,1,Normal
+2025-04-19,Appointment & Registration System,128,198.0,4,60,1,Normal
+2025-04-19,Hospital Network & Log Systems,2931,37.0,3,49,1,Normal
+2025-04-20,Hospital Management System,494,334.0,3,63,1,Normal
+2025-04-20,Electronic Health Record System,498,205.0,0,66,1,Normal
+2025-04-20,Appointment & Registration System,188,211.0,4,41,1,Normal
+2025-04-20,Hospital Network & Log Systems,1532,47.0,0,42,1,Normal
+2025-04-21,Hospital Management System,365,258.0,0,60,1,Normal
+2025-04-21,Electronic Health Record System,387,388.0,4,65,1,Normal
+2025-04-21,Appointment & Registration System,363,218.0,1,57,1,Normal
+2025-04-21,Hospital Network & Log Systems,1470,17.0,3,35,1,Normal
+2025-04-22,Hospital Management System,428,2804.0,5,72,-1,Anomaly
+2025-04-22,Electronic Health Record System,582,256.0,3,66,1,Normal
+2025-04-22,Appointment & Registration System,237,167.0,-1,42,1,Normal
+2025-04-22,Hospital Network & Log Systems,1871,10.0,0,35,1,Normal
+2025-04-23,Hospital Management System,398,218.0,0,46,1,Normal
+2025-04-23,Electronic Health Record System,325,186.0,3,68,1,Normal
+2025-04-23,Appointment & Registration System,168,133.0,3,66,1,Normal
+2025-04-23,Hospital Network & Log Systems,1169,18.0,1,30,1,Normal
+2025-04-24,Hospital Management System,341,350.0,2,75,1,Normal
+2025-04-24,Electronic Health Record System,519,334.0,2,63,1,Normal
+2025-04-24,Appointment & Registration System,252,146.0,4,63,1,Normal
+2025-04-24,Hospital Network & Log Systems,1801,43.0,1,30,1,Normal
+2025-04-25,Hospital Management System,284,234.0,0,49,1,Normal
+2025-04-25,Electronic Health Record System,442,360.0,3,54,1,Normal
+2025-04-25,Appointment & Registration System,360,222.0,0,59,1,Normal
+2025-04-25,Hospital Network & Log Systems,2690,35.0,1,53,1,Normal
+2025-04-26,Hospital Management System,366,209.0,5,54,1,Normal
+2025-04-26,Electronic Health Record System,707,188.0,6,53,1,Normal
+2025-04-26,Appointment & Registration System,154,193.0,4,63,1,Normal
+2025-04-26,Hospital Network & Log Systems,2073,33.0,2,39,1,Normal
+2025-04-27,Hospital Management System,325,173.0,4,67,1,Normal
+2025-04-27,Electronic Health Record System,511,194.0,1,79,1,Normal
+2025-04-27,Appointment & Registration System,314,298.0,1,63,1,Normal
+2025-04-27,Hospital Network & Log Systems,1637,45.0,2,62,1,Normal
+2025-04-28,Hospital Management System,449,173.0,2,48,1,Normal
+2025-04-28,Electronic Health Record System,438,222.0,1,61,1,Normal
+2025-04-28,Appointment & Registration System,229,292.0,3,66,1,Normal
+2025-04-28,Hospital Network & Log Systems,2072,48.0,0,65,1,Normal
+2025-04-29,Hospital Management System,377,158.0,1,45,1,Normal
+2025-04-29,Electronic Health Record System,757,244.0,3,58,1,Normal
+2025-04-29,Appointment & Registration System,198,249.0,4,46,1,Normal
+2025-04-30,Hospital Management System,524,301.0,5,48,1,Normal
+2025-04-30,Electronic Health Record System,516,283.0,6,72,1,Normal
+2025-04-30,Appointment & Registration System,282,213.0,3,47,1,Normal
+2025-04-30,Hospital Network & Log Systems,1437,39.0,3,30,1,Normal
+2025-05-01,Hospital Management System,479,282.0,5,69,1,Normal
+2025-05-01,Electronic Health Record System,774,210.0,0,58,1,Normal
+2025-05-01,Appointment & Registration System,234,169.0,1,54,1,Normal
+2025-05-01,Hospital Network & Log Systems,2082,46.0,3,56,1,Normal
+2025-05-02,Hospital Management System,202,203.0,2,57,1,Normal
+2025-05-02,Electronic Health Record System,672,298.0,0,51,1,Normal
+2025-05-02,Appointment & Registration System,335,180.0,2,68,1,Normal
+2025-05-02,Hospital Network & Log Systems,2500,36.0,3,50,1,Normal
+2025-05-03,Hospital Management System,514,192.0,2,59,1,Normal
+2025-05-03,Electronic Health Record System,550,325.0,0,67,1,Normal
+2025-05-03,Appointment & Registration System,260,185.0,1,55,1,Normal
+2025-05-03,Hospital Network & Log Systems,1558,45.0,3,63,1,Normal
+2025-05-04,Hospital Management System,407,283.0,2,49,1,Normal
+2025-05-04,Electronic Health Record System,348,273.0,4,65,1,Normal
+2025-05-04,Appointment & Registration System,233,247.0,0,63,1,Normal
+2025-05-04,Hospital Network & Log Systems,1437,36.0,0,61,1,Normal
+2025-05-05,Hospital Management System,357,313.0,5,49,1,Normal
+2025-05-05,Electronic Health Record System,331,362.0,4,62,1,Normal
+2025-05-05,Appointment & Registration System,389,219.0,2,51,1,Normal
+2025-05-05,Hospital Network & Log Systems,2865,36.0,1,48,1,Normal
+2025-05-06,Hospital Management System,489,295.0,3,58,1,Normal
+2025-05-06,Electronic Health Record System,599,326.0,6,71,1,Normal
+2025-05-06,Appointment & Registration System,276,156.0,2,41,1,Normal
+2025-05-06,Hospital Network & Log Systems,1836,49.0,0,33,-1,Anomaly
+2025-05-07,Hospital Management System,480,254.0,4,50,1,Normal
+2025-05-07,Electronic Health Record System,410,192.0,3,50,1,Normal
+2025-05-07,Appointment & Registration System,237,295.0,1,51,1,Normal
+2025-05-07,Hospital Network & Log Systems,2646,35.0,0,48,1,Normal
+2025-05-08,Hospital Management System,495,225.0,0,49,1,Normal
+2025-05-08,Electronic Health Record System,793,220.0,5,53,1,Normal
+2025-05-08,Appointment & Registration System,229,226.0,3,51,1,Normal
+2025-05-08,Hospital Network & Log Systems,1960,43.0,1,61,1,Normal
+2025-05-09,Hospital Management System,549,220.0,3,53,1,Normal
+2025-05-09,Electronic Health Record System,780,302.0,0,56,1,Normal
+2025-05-09,Appointment & Registration System,392,157.0,0,50,1,Normal
+2025-05-09,Hospital Network & Log Systems,2344,25.0,3,57,1,Normal
+2025-05-10,Hospital Management System,486,281.0,4,51,1,Normal
+2025-05-10,Electronic Health Record System,726,381.0,3,52,1,Normal
+2025-05-10,Appointment & Registration System,124,153.0,1,62,1,Normal
+2025-05-10,Hospital Network & Log Systems,2706,22.0,3,58,1,Normal
+2025-05-11,Hospital Management System,313,262.0,1,51,1,Normal
+2025-05-11,Appointment & Registration System,306,221.0,4,41,1,Normal
+2025-05-11,Hospital Network & Log Systems,1537,48.0,0,42,1,Normal
+2025-05-12,Hospital Management System,420,201.0,-1,51,1,Normal
+2025-05-12,Electronic Health Record System,686,290.0,3,53,1,Normal
+2025-05-12,Appointment & Registration System,281,300.0,2,56,1,Normal
+2025-05-12,Hospital Network & Log Systems,1362,24.0,2,32,1,Normal
+2025-05-13,Hospital Management System,288,307.0,0,48,1,Normal
+2025-05-13,Electronic Health Record System,441,255.0,4,72,1,Normal
+2025-05-13,Appointment & Registration System,296,151.0,1,64,1,Normal
+2025-05-13,Hospital Network & Log Systems,1637,29.0,3,65,1,Normal
+2025-05-14,Hospital Management System,585,315.0,3,46,1,Normal
+2025-05-14,Electronic Health Record System,438,395.0,6,69,1,Normal
+2025-05-14,Appointment & Registration System,191,224.0,0,57,1,Normal
+2025-05-14,Hospital Network & Log Systems,2922,42.0,0,60,-1,Anomaly
+2025-05-15,Hospital Management System,565,270.0,3,47,1,Normal
+2025-05-15,Electronic Health Record System,599,321.0,3,57,1,Normal
+2025-05-15,Appointment & Registration System,381,197.0,3,67,1,Normal
+2025-05-15,Hospital Network & Log Systems,2460,11.0,2,36,1,Normal
+2025-05-16,Hospital Management System,331,311.0,5,45,1,Normal
+2025-05-16,Electronic Health Record System,564,236.0,2,52,1,Normal
+2025-05-16,Appointment & Registration System,187,298.0,2,47,1,Normal
+2025-05-16,Hospital Network & Log Systems,1872,30.0,3,48,1,Normal
+2025-05-17,Hospital Management System,399,337.0,4,58,1,Normal
+2025-05-17,Electronic Health Record System,563,331.0,2,63,1,Normal
+2025-05-17,Appointment & Registration System,347,163.0,1,50,1,Normal
+2025-05-17,Hospital Network & Log Systems,1465,41.0,2,38,1,Normal
+2025-05-18,Hospital Management System,393,253.0,4,71,1,Normal
+2025-05-18,Electronic Health Record System,629,399.0,2,61,1,Normal
+2025-05-18,Appointment & Registration System,326,201.0,3,66,1,Normal
+2025-05-18,Hospital Network & Log Systems,1910,31.0,0,59,1,Normal
+2025-05-19,Hospital Management System,311,303.0,4,61,1,Normal
+2025-05-19,Electronic Health Record System,521,308.0,2,76,1,Normal
+2025-05-19,Appointment & Registration System,337,200.0,4,62,1,Normal
+2025-05-19,Hospital Network & Log Systems,2622,13.0,1,39,1,Normal
+2025-05-20,Hospital Management System,393,262.0,3,56,1,Normal
+2025-05-20,Electronic Health Record System,652,244.0,6,74,1,Normal
+2025-05-20,Appointment & Registration System,185,278.0,0,54,1,Normal
+2025-05-20,Hospital Network & Log Systems,2247,23.0,2,35,1,Normal
+2025-05-21,Hospital Management System,276,332.0,4,61,1,Normal
+2025-05-21,Electronic Health Record System,607,330.0,3,51,1,Normal
+2025-05-21,Appointment & Registration System,373,223.0,0,54,1,Normal
+2025-05-21,Hospital Network & Log Systems,2592,34.0,1,59,1,Normal
+2025-05-22,Hospital Management System,571,285.0,2,63,1,Normal
+2025-05-22,Electronic Health Record System,405,356.0,5,60,1,Normal
+2025-05-22,Appointment & Registration System,263,180.0,1,61,1,Normal
+2025-05-22,Hospital Network & Log Systems,2720,37.0,3,50,1,Normal
+2025-05-23,Hospital Management System,257,263.0,5,74,1,Normal
+2025-05-23,Electronic Health Record System,346,194.0,6,57,1,Normal
+2025-05-23,Appointment & Registration System,359,295.0,2,44,1,Normal
+2025-05-23,Hospital Network & Log Systems,2808,39.0,3,37,1,Normal
+2025-05-24,Hospital Management System,534,175.0,2,49,1,Normal
+2025-05-24,Electronic Health Record System,700,327.0,6,67,1,Normal
+2025-05-24,Appointment & Registration System,261,276.0,0,59,1,Normal
+2025-05-24,Hospital Network & Log Systems,1748,14.0,2,30,1,Normal
+2025-05-25,Hospital Management System,256,263.0,0,53,1,Normal
+2025-05-25,Electronic Health Record System,685,293.0,6,72,1,Normal
+2025-05-25,Appointment & Registration System,125,256.0,3,60,1,Normal
+2025-05-25,Hospital Network & Log Systems,1427,21.0,0,34,1,Normal
+2025-05-26,Hospital Management System,239,161.0,1,55,1,Normal
+2025-05-26,Electronic Health Record System,787,326.0,5,69,1,Normal
+2025-05-26,Appointment & Registration System,374,184.0,2,68,1,Normal
+2025-05-26,Hospital Network & Log Systems,2845,50.0,2,61,1,Normal
+2025-05-27,Hospital Management System,470,226.0,2,49,1,Normal
+2025-05-27,Electronic Health Record System,563,289.0,6,69,1,Normal
+2025-05-27,Appointment & Registration System,542,1799.0,3,96,-1,Anomaly
+2025-05-27,Hospital Network & Log Systems,2173,13.0,0,49,1,Normal
+2025-05-28,Hospital Management System,272,291.0,0,60,1,Normal
+2025-05-28,Electronic Health Record System,399,322.0,5,66,1,Normal
+2025-05-28,Appointment & Registration System,182,183.0,4,60,1,Normal
+2025-05-28,Hospital Network & Log Systems,2539,2022.0,1,54,-1,Anomaly
+2025-05-29,Hospital Management System,454,269.0,0,46,1,Normal
+2025-05-29,Electronic Health Record System,589,394.0,6,55,1,Normal
+2025-05-29,Appointment & Registration System,223,131.0,3,58,1,Normal
+2025-05-29,Hospital Network & Log Systems,1588,14.0,2,30,1,Normal
+2025-05-30,Hospital Management System,436,230.0,1,55,1,Normal
+2025-05-30,Electronic Health Record System,599,244.0,1,50,1,Normal
+2025-05-30,Appointment & Registration System,293,255.0,0,60,1,Normal
+2025-05-30,Hospital Network & Log Systems,1927,22.0,1,37,1,Normal
+2025-05-31,Hospital Management System,432,199.0,1,53,1,Normal
+2025-05-31,Electronic Health Record System,569,287.0,6,79,1,Normal
+2025-05-31,Appointment & Registration System,161,176.0,4,64,1,Normal
+2025-05-31,Hospital Network & Log Systems,1628,2823.0,3,36,-1,Anomaly
+2025-06-01,Hospital Management System,245,226.0,1,59,1,Normal
+2025-06-01,Electronic Health Record System,439,214.0,2,57,1,Normal
+2025-06-01,Appointment & Registration System,370,235.0,4,46,1,Normal
+2025-06-01,Hospital Network & Log Systems,2411,37.0,1,46,1,Normal
+2025-06-02,Hospital Management System,204,336.0,4,56,1,Normal
+2025-06-02,Electronic Health Record System,508,325.0,1,59,1,Normal
+2025-06-02,Appointment & Registration System,377,129.0,4,68,1,Normal
+2025-06-02,Hospital Network & Log Systems,1686,23.0,2,62,1,Normal
+2025-06-03,Hospital Management System,412,181.0,3,66,1,Normal
+2025-06-03,Electronic Health Record System,713,290.0,2,58,1,Normal
+2025-06-03,Appointment & Registration System,152,201.0,1,44,1,Normal
+2025-06-03,Hospital Network & Log Systems,1141,45.0,1,58,1,Normal
+2025-06-04,Hospital Management System,561,293.0,5,63,1,Normal
+2025-06-04,Electronic Health Record System,448,376.0,0,61,1,Normal
+2025-06-04,Appointment & Registration System,309,153.0,4,46,1,Normal
+2025-06-04,Hospital Network & Log Systems,1777,44.0,2,47,1,Normal
+2025-06-05,Hospital Management System,460,280.0,0,65,1,Normal
+2025-06-05,Electronic Health Record System,609,238.0,6,68,1,Normal
+2025-06-05,Appointment & Registration System,168,225.0,4,70,1,Normal
+2025-06-05,Hospital Network & Log Systems,2351,23.0,0,40,1,Normal
+2025-06-06,Hospital Management System,200,191.0,4,74,1,Normal
+2025-06-06,Electronic Health Record System,625,261.0,2,57,1,Normal
+2025-06-06,Appointment & Registration System,364,282.0,3,66,1,Normal
+2025-06-06,Hospital Network & Log Systems,1345,18.0,1,61,1,Normal
+2025-06-07,Hospital Management System,215,321.0,5,59,1,Normal
+2025-06-07,Electronic Health Record System,1278,1796.0,2,98,-1,Anomaly
+2025-06-07,Appointment & Registration System,400,1954.0,2,95,-1,Anomaly
+2025-06-07,Hospital Network & Log Systems,1211,38.0,2,39,1,Normal
+2025-06-08,Hospital Management System,393,2270.0,5,48,-1,Anomaly
+2025-06-08,Electronic Health Record System,381,201.0,0,78,1,Normal
+2025-06-08,Appointment & Registration System,341,163.0,3,59,1,Normal
+2025-06-08,Hospital Network & Log Systems,1546,41.0,2,60,1,Normal
+2025-06-09,Hospital Management System,396,307.0,5,47,1,Normal
+2025-06-09,Electronic Health Record System,423,241.0,3,77,1,Normal
+2025-06-09,Appointment & Registration System,392,149.0,2,40,1,Normal
+2025-06-09,Hospital Network & Log Systems,2640,13.0,1,64,1,Normal
+2025-06-10,Hospital Management System,379,286.0,2,46,1,Normal
+2025-06-10,Electronic Health Record System,410,331.0,3,51,1,Normal
+2025-06-10,Appointment & Registration System,135,206.0,2,59,1,Normal
+2025-06-10,Hospital Network & Log Systems,2596,17.0,2,49,1,Normal
+2025-06-11,Hospital Management System,233,349.0,5,46,1,Normal
+2025-06-11,Electronic Health Record System,633,268.0,4,57,1,Normal
+2025-06-11,Appointment & Registration System,317,290.0,2,69,1,Normal
+2025-06-11,Hospital Network & Log Systems,1927,48.0,2,56,1,Normal
+2025-06-12,Hospital Management System,209,171.0,1,46,1,Normal
+2025-06-12,Electronic Health Record System,738,364.0,1,56,1,Normal
+2025-06-12,Appointment & Registration System,317,162.0,4,59,1,Normal
+2025-06-12,Hospital Network & Log Systems,2072,30.0,1,42,1,Normal
+2025-06-13,Hospital Management System,561,178.0,2,60,1,Normal
+2025-06-13,Electronic Health Record System,670,226.0,0,57,1,Normal
+2025-06-13,Appointment & Registration System,317,190.0,3,41,1,Normal
+2025-06-13,Hospital Network & Log Systems,1494,17.0,0,43,1,Normal
+2025-06-14,Hospital Management System,375,223.0,4,72,1,Normal
+2025-06-14,Electronic Health Record System,412,255.0,6,79,1,Normal
+2025-06-14,Appointment & Registration System,368,166.0,0,62,1,Normal
+2025-06-14,Hospital Network & Log Systems,2975,31.0,0,48,-1,Anomaly
+2025-06-15,Hospital Management System,223,250.0,1,58,1,Normal
+2025-06-15,Electronic Health Record System,770,1838.0,5,97,-1,Anomaly
+2025-06-15,Appointment & Registration System,164,224.0,1,64,1,Normal
+2025-06-15,Hospital Network & Log Systems,1363,26.0,1,34,1,Normal
+2025-06-16,Hospital Management System,597,248.0,1,74,1,Normal
+2025-06-16,Electronic Health Record System,584,288.0,5,55,1,Normal
+2025-06-16,Appointment & Registration System,325,163.0,4,70,1,Normal
+2025-06-16,Hospital Network & Log Systems,2013,49.0,0,41,1,Normal
+2025-06-17,Hospital Management System,587,300.0,4,55,1,Normal
+2025-06-17,Electronic Health Record System,514,343.0,0,50,1,Normal
+2025-06-17,Appointment & Registration System,146,192.0,3,44,1,Normal
+2025-06-17,Hospital Network & Log Systems,1198,42.0,1,39,1,Normal
+2025-06-18,Hospital Management System,382,160.0,0,54,1,Normal
+2025-06-18,Electronic Health Record System,464,242.0,2,56,1,Normal
+2025-06-18,Appointment & Registration System,249,128.0,1,40,1,Normal
+2025-06-18,Hospital Network & Log Systems,2781,25.0,3,47,1,Normal
+2025-06-19,Hospital Management System,449,296.0,4,47,1,Normal
+2025-06-19,Electronic Health Record System,343,342.0,2,60,1,Normal
+2025-06-19,Appointment & Registration System,136,145.0,1,45,1,Normal
+2025-06-19,Hospital Network & Log Systems,2753,13.0,3,32,-1,Anomaly
+2025-06-20,Hospital Management System,247,344.0,1,54,1,Normal
+2025-06-20,Electronic Health Record System,706,373.0,6,53,1,Normal
+2025-06-20,Appointment & Registration System,297,179.0,1,70,1,Normal
+2025-06-20,Hospital Network & Log Systems,1580,29.0,2,62,1,Normal
+2025-06-21,Hospital Management System,453,170.0,2,68,1,Normal
+2025-06-21,Electronic Health Record System,384,180.0,2,61,1,Normal
+2025-06-21,Appointment & Registration System,118,233.0,2,57,1,Normal
+2025-06-21,Hospital Network & Log Systems,1557,26.0,2,45,1,Normal
+2025-06-22,Hospital Management System,595,339.0,5,54,1,Normal
+2025-06-22,Electronic Health Record System,577,247.0,1,58,1,Normal
+2025-06-22,Appointment & Registration System,161,184.0,0,66,1,Normal
+2025-06-22,Hospital Network & Log Systems,2973,19.0,2,31,-1,Anomaly
+2025-06-23,Hospital Management System,362,252.0,4,46,1,Normal
+2025-06-23,Electronic Health Record System,641,237.0,2,57,1,Normal
+2025-06-23,Appointment & Registration System,203,224.0,1,62,1,Normal
+2025-06-23,Hospital Network & Log Systems,2093,44.0,0,65,1,Normal
+2025-06-24,Hospital Management System,351,304.0,0,61,1,Normal
+2025-06-24,Electronic Health Record System,426,278.0,3,54,1,Normal
+2025-06-24,Appointment & Registration System,289,157.0,3,60,1,Normal
+2025-06-24,Hospital Network & Log Systems,2377,33.0,3,40,1,Normal
+2025-06-25,Hospital Management System,322,303.0,3,62,1,Normal
+2025-06-25,Electronic Health Record System,598,310.0,0,57,1,Normal
+2025-06-25,Appointment & Registration System,102,268.0,3,57,1,Normal
+2025-06-25,Hospital Network & Log Systems,1969,39.0,1,54,1,Normal
+2025-06-26,Hospital Management System,276,260.0,2,72,1,Normal
+2025-06-26,Electronic Health Record System,611,280.0,6,73,1,Normal
+2025-06-26,Appointment & Registration System,284,287.0,0,65,1,Normal
+2025-06-26,Hospital Network & Log Systems,1224,31.0,0,51,1,Normal
+2025-06-27,Hospital Management System,468,322.0,5,72,1,Normal
+2025-06-27,Electronic Health Record System,410,237.0,0,80,1,Normal
+2025-06-27,Appointment & Registration System,305,128.0,2,44,1,Normal
+2025-06-27,Hospital Network & Log Systems,2222,50.0,1,48,1,Normal
+2025-06-28,Hospital Management System,535,181.0,0,75,1,Normal
+2025-06-28,Electronic Health Record System,319,211.0,4,64,1,Normal
+2025-06-28,Appointment & Registration System,666,1531.0,0,96,-1,Anomaly
+2025-06-28,Hospital Network & Log Systems,2612,11.0,0,49,1,Normal
+2025-06-29,Hospital Management System,316,2025.0,-1,70,-1,Anomaly
+2025-06-29,Electronic Health Record System,401,392.0,4,64,1,Normal
+2025-06-29,Appointment & Registration System,241,275.0,2,47,1,Normal
+2025-06-29,Hospital Network & Log Systems,1871,15.0,2,56,1,Normal
+2025-06-30,Hospital Management System,447,151.0,4,68,1,Normal
+2025-06-30,Electronic Health Record System,302,393.0,5,70,1,Normal
+2025-06-30,Appointment & Registration System,149,230.0,1,63,1,Normal
+2025-06-30,Hospital Network & Log Systems,1801,43.0,0,60,1,Normal
+2025-07-01,Hospital Management System,371,217.0,5,62,1,Normal
+2025-07-01,Electronic Health Record System,446,349.0,1,67,1,Normal
+2025-07-01,Appointment & Registration System,178,193.0,4,40,1,Normal
+2025-07-01,Hospital Network & Log Systems,1316,38.0,1,45,1,Normal
+2025-07-02,Hospital Management System,426,328.0,0,66,1,Normal
+2025-07-02,Electronic Health Record System,510,273.0,0,72,1,Normal
+2025-07-02,Appointment & Registration System,242,127.0,4,44,1,Normal
+2025-07-02,Hospital Network & Log Systems,1335,38.0,0,40,1,Normal
+2025-07-03,Hospital Management System,256,261.0,4,66,1,Normal
+2025-07-03,Electronic Health Record System,571,353.0,1,65,1,Normal
+2025-07-03,Appointment & Registration System,250,167.0,3,52,1,Normal
+2025-07-03,Hospital Network & Log Systems,2482,38.0,3,34,1,Normal
+2025-07-04,Hospital Management System,514,324.0,2,53,1,Normal
+2025-07-04,Electronic Health Record System,352,1882.0,46,78,-1,Anomaly
+2025-07-04,Appointment & Registration System,181,216.0,1,52,1,Normal
+2025-07-04,Hospital Network & Log Systems,1630,19.0,3,34,1,Normal
+2025-07-05,Hospital Management System,500,211.0,2,54,1,Normal
+2025-07-05,Electronic Health Record System,668,274.0,1,51,1,Normal
+2025-07-05,Appointment & Registration System,120,238.0,4,55,1,Normal
+2025-07-05,Hospital Network & Log Systems,1974,41.0,1,44,1,Normal
+2025-07-06,Hospital Management System,205,324.0,1,56,1,Normal
+2025-07-06,Electronic Health Record System,443,278.0,1,77,1,Normal
+2025-07-06,Appointment & Registration System,186,165.0,-1,68,1,Normal
+2025-07-06,Hospital Network & Log Systems,2403,32.0,1,33,1,Normal
+2025-07-07,Hospital Management System,302,349.0,4,66,1,Normal
+2025-07-07,Electronic Health Record System,462,375.0,6,73,1,Normal
+2025-07-07,Appointment & Registration System,128,122.0,2,55,1,Normal
+2025-07-07,Hospital Network & Log Systems,2928,14.0,1,34,-1,Anomaly
+2025-07-08,Hospital Management System,269,292.0,5,52,1,Normal
+2025-07-08,Electronic Health Record System,783,356.0,1,55,1,Normal
+2025-07-08,Appointment & Registration System,376,157.0,1,64,1,Normal
+2025-07-08,Hospital Network & Log Systems,1459,24.0,0,63,1,Normal
+2025-07-09,Hospital Management System,437,154.0,0,68,1,Normal
+2025-07-09,Electronic Health Record System,405,356.0,2,58,1,Normal
+2025-07-09,Appointment & Registration System,342,191.0,1,55,1,Normal
+2025-07-09,Hospital Network & Log Systems,2735,34.0,1,40,1,Normal
+2025-07-10,Hospital Management System,384,199.0,1,53,1,Normal
+2025-07-10,Electronic Health Record System,709,360.0,0,59,1,Normal
+2025-07-10,Appointment & Registration System,143,282.0,3,55,1,Normal
+2025-07-10,Hospital Network & Log Systems,1539,42.0,3,53,1,Normal
+2025-07-11,Hospital Management System,522,305.0,1,68,1,Normal
+2025-07-11,Electronic Health Record System,300,182.0,3,61,1,Normal
+2025-07-11,Appointment & Registration System,294,1763.0,50,55,-1,Anomaly
+2025-07-11,Hospital Network & Log Systems,1919,37.0,0,36,1,Normal
+2025-07-12,Hospital Management System,585,294.0,4,56,1,Normal
+2025-07-12,Electronic Health Record System,382,189.0,2,59,1,Normal
+2025-07-12,Appointment & Registration System,325,220.0,0,48,1,Normal
+2025-07-12,Hospital Network & Log Systems,1531,24.0,1,32,1,Normal
+2025-07-13,Hospital Management System,416,271.0,2,66,1,Normal
+2025-07-13,Electronic Health Record System,596,226.0,4,72,1,Normal
+2025-07-13,Appointment & Registration System,398,198.0,3,50,1,Normal
+2025-07-13,Hospital Network & Log Systems,1004,47.0,2,43,1,Normal
+2025-07-14,Hospital Management System,442,161.0,1,70,1,Normal
+2025-07-14,Electronic Health Record System,524,384.0,6,78,1,Normal
+2025-07-14,Appointment & Registration System,165,170.0,3,42,1,Normal
+2025-07-14,Hospital Network & Log Systems,1119,14.0,0,45,1,Normal
+2025-07-15,Hospital Management System,456,251.0,1,60,1,Normal
+2025-07-15,Electronic Health Record System,777,290.0,5,56,1,Normal
+2025-07-15,Appointment & Registration System,300,263.0,3,69,1,Normal
+2025-07-15,Hospital Network & Log Systems,1349,42.0,2,60,1,Normal
+2025-07-16,Hospital Management System,293,160.0,2,75,1,Normal
+2025-07-16,Electronic Health Record System,307,308.0,6,50,1,Normal
+2025-07-16,Appointment & Registration System,151,123.0,3,41,1,Normal
+2025-07-16,Hospital Network & Log Systems,2433,10.0,2,57,1,Normal
+2025-07-17,Hospital Management System,385,243.0,1,59,1,Normal
+2025-07-17,Electronic Health Record System,315,252.0,4,79,1,Normal
+2025-07-17,Appointment & Registration System,280,297.0,4,56,1,Normal
+2025-07-17,Hospital Network & Log Systems,1714,26.0,3,63,1,Normal
+2025-07-18,Hospital Management System,553,222.0,3,55,1,Normal
+2025-07-18,Electronic Health Record System,341,271.0,1,73,1,Normal
+2025-07-18,Appointment & Registration System,363,240.0,3,42,1,Normal
+2025-07-18,Hospital Network & Log Systems,2971,2304.0,0,64,-1,Anomaly
+2025-07-19,Hospital Management System,436,299.0,3,51,1,Normal
+2025-07-19,Appointment & Registration System,302,128.0,2,70,1,Normal
+2025-07-19,Hospital Network & Log Systems,1349,48.0,3,42,1,Normal
+2025-07-20,Hospital Management System,313,298.0,2,63,1,Normal
+2025-07-20,Electronic Health Record System,577,372.0,5,60,1,Normal
+2025-07-20,Appointment & Registration System,303,2535.0,4,52,-1,Anomaly
+2025-07-20,Hospital Network & Log Systems,2757,18.0,2,51,1,Normal
+2025-07-21,Hospital Management System,472,155.0,3,57,1,Normal
+2025-07-21,Electronic Health Record System,414,310.0,1,56,1,Normal
+2025-07-21,Appointment & Registration System,364,127.0,3,43,1,Normal
+2025-07-21,Hospital Network & Log Systems,1254,26.0,0,33,1,Normal
+2025-07-22,Hospital Management System,524,314.0,4,48,1,Normal
+2025-07-22,Appointment & Registration System,100,259.0,1,63,1,Normal
+2025-07-22,Hospital Network & Log Systems,1123,31.0,2,61,1,Normal
+2025-07-23,Hospital Management System,242,210.0,2,47,1,Normal
+2025-07-23,Electronic Health Record System,553,350.0,3,64,1,Normal
+2025-07-23,Appointment & Registration System,269,125.0,1,59,1,Normal
+2025-07-24,Hospital Management System,264,235.0,5,71,1,Normal
+2025-07-24,Electronic Health Record System,648,206.0,5,69,1,Normal
+2025-07-24,Appointment & Registration System,189,294.0,3,52,1,Normal
+2025-07-24,Hospital Network & Log Systems,1975,31.0,1,52,1,Normal
+2025-07-25,Hospital Management System,271,284.0,3,75,1,Normal
+2025-07-25,Electronic Health Record System,591,308.0,5,55,1,Normal
+2025-07-25,Appointment & Registration System,300,131.0,0,51,1,Normal
+2025-07-25,Hospital Network & Log Systems,1244,35.0,0,33,1,Normal
+2025-07-26,Hospital Management System,502,338.0,0,49,1,Normal
+2025-07-26,Electronic Health Record System,449,194.0,1,61,1,Normal
+2025-07-26,Appointment & Registration System,152,299.0,4,50,1,Normal
+2025-07-26,Hospital Network & Log Systems,2714,17.0,1,43,1,Normal
+2025-07-27,Electronic Health Record System,629,243.0,2,57,1,Normal
+2025-07-27,Appointment & Registration System,102,206.0,1,57,1,Normal
+2025-07-27,Hospital Network & Log Systems,1401,13.0,2,43,1,Normal
+2025-07-28,Hospital Management System,308,314.0,3,64,1,Normal
+2025-07-28,Appointment & Registration System,163,205.0,3,54,1,Normal
+2025-07-28,Hospital Network & Log Systems,1940,34.0,0,56,1,Normal
+2025-07-29,Hospital Management System,467,160.0,1,55,1,Normal
+2025-07-29,Electronic Health Record System,372,266.0,6,62,1,Normal
+2025-07-29,Appointment & Registration System,148,241.0,4,63,1,Normal
+2025-07-29,Hospital Network & Log Systems,2089,14.0,0,58,1,Normal
+2025-07-30,Hospital Management System,589,185.0,1,66,1,Normal
+2025-07-30,Electronic Health Record System,700,359.0,4,66,1,Normal
+2025-07-30,Appointment & Registration System,312,270.0,0,59,1,Normal
+2025-07-30,Hospital Network & Log Systems,2533,49.0,1,59,1,Normal
+2025-07-31,Hospital Management System,594,210.0,0,45,1,Normal
+2025-07-31,Electronic Health Record System,360,247.0,2,77,1,Normal
+2025-07-31,Appointment & Registration System,221,299.0,2,55,1,Normal
+2025-07-31,Hospital Network & Log Systems,2318,45.0,2,54,1,Normal
+2025-08-01,Hospital Management System,220,169.0,3,62,1,Normal
+2025-08-01,Electronic Health Record System,417,338.0,1,77,1,Normal
+2025-08-01,Appointment & Registration System,349,222.0,4,42,1,Normal
+2025-08-01,Hospital Network & Log Systems,2670,11.0,0,34,-1,Anomaly
+2025-08-02,Hospital Management System,356,342.0,4,53,1,Normal
+2025-08-02,Electronic Health Record System,430,345.0,0,61,1,Normal
+2025-08-02,Appointment & Registration System,293,182.0,0,50,1,Normal
+2025-08-02,Hospital Network & Log Systems,2479,38.0,2,39,1,Normal
+2025-08-03,Hospital Management System,245,1071.0,59,63,-1,Anomaly
+2025-08-03,Electronic Health Record System,576,203.0,5,62,1,Normal
+2025-08-03,Appointment & Registration System,133,184.0,0,58,1,Normal
+2025-08-03,Hospital Network & Log Systems,2749,18.0,-1,40,-1,Anomaly
+2025-08-04,Hospital Management System,406,324.0,1,50,1,Normal
+2025-08-04,Electronic Health Record System,743,311.0,1,53,1,Normal
+2025-08-04,Appointment & Registration System,104,243.0,2,57,1,Normal
+2025-08-04,Hospital Network & Log Systems,2007,46.0,3,55,1,Normal
+2025-08-05,Hospital Management System,430,266.0,0,53,1,Normal
+2025-08-05,Electronic Health Record System,651,192.0,1,63,1,Normal
+2025-08-05,Appointment & Registration System,121,278.0,3,49,1,Normal
+2025-08-05,Hospital Network & Log Systems,1250,17.0,3,50,1,Normal
+2025-08-06,Hospital Management System,335,340.0,4,55,1,Normal
+2025-08-06,Electronic Health Record System,475,358.0,5,56,1,Normal
+2025-08-06,Appointment & Registration System,248,260.0,2,42,1,Normal
+2025-08-06,Hospital Network & Log Systems,2263,41.0,1,62,1,Normal
+2025-08-07,Hospital Management System,268,338.0,1,61,1,Normal
+2025-08-07,Electronic Health Record System,738,279.0,3,54,1,Normal
+2025-08-07,Appointment & Registration System,158,183.0,1,65,1,Normal
+2025-08-07,Hospital Network & Log Systems,2287,48.0,1,42,1,Normal
+2025-08-08,Hospital Management System,326,329.0,0,71,1,Normal
+2025-08-08,Electronic Health Record System,416,190.0,1,65,1,Normal
+2025-08-08,Appointment & Registration System,398,190.0,2,61,1,Normal
+2025-08-08,Hospital Network & Log Systems,1449,13.0,1,32,1,Normal
+2025-08-09,Hospital Management System,468,246.0,2,55,1,Normal
+2025-08-09,Electronic Health Record System,370,347.0,5,60,1,Normal
+2025-08-09,Appointment & Registration System,113,1016.0,57,52,-1,Anomaly
+2025-08-09,Hospital Network & Log Systems,2306,31.0,0,57,1,Normal
+2025-08-10,Hospital Management System,513,213.0,2,74,1,Normal
+2025-08-10,Electronic Health Record System,795,328.0,4,71,1,Normal
+2025-08-10,Appointment & Registration System,311,251.0,2,70,1,Normal
+2025-08-10,Hospital Network & Log Systems,1853,27.0,0,57,1,Normal
+2025-08-11,Hospital Management System,486,307.0,3,62,1,Normal
+2025-08-11,Electronic Health Record System,559,344.0,5,69,1,Normal
+2025-08-11,Appointment & Registration System,103,284.0,4,69,1,Normal
+2025-08-11,Hospital Network & Log Systems,2206,45.0,3,54,1,Normal
+2025-08-12,Hospital Management System,365,235.0,4,48,1,Normal
+2025-08-12,Electronic Health Record System,590,254.0,1,65,1,Normal
+2025-08-12,Appointment & Registration System,242,146.0,1,53,1,Normal
+2025-08-12,Hospital Network & Log Systems,1319,20.0,3,57,1,Normal
+2025-08-13,Hospital Management System,529,2054.0,5,67,-1,Anomaly
+2025-08-13,Electronic Health Record System,397,335.0,2,66,1,Normal
+2025-08-13,Appointment & Registration System,359,158.0,2,45,1,Normal
+2025-08-13,Hospital Network & Log Systems,1912,18.0,0,60,1,Normal
+2025-08-14,Hospital Management System,362,173.0,3,54,1,Normal
+2025-08-14,Electronic Health Record System,498,276.0,6,74,1,Normal
+2025-08-14,Appointment & Registration System,231,190.0,0,44,1,Normal
+2025-08-14,Hospital Network & Log Systems,1493,28.0,0,48,1,Normal
+2025-08-15,Hospital Management System,357,345.0,0,56,1,Normal
+2025-08-15,Electronic Health Record System,333,328.0,0,52,1,Normal
+2025-08-15,Appointment & Registration System,169,150.0,2,49,1,Normal
+2025-08-15,Hospital Network & Log Systems,2969,26.0,1,47,1,Normal
+2025-08-16,Hospital Management System,456,246.0,4,74,1,Normal
+2025-08-16,Electronic Health Record System,368,319.0,6,58,1,Normal
+2025-08-16,Appointment & Registration System,242,283.0,2,57,1,Normal
+2025-08-16,Hospital Network & Log Systems,2826,10.0,1,42,1,Normal
+2025-08-17,Hospital Management System,279,215.0,4,64,1,Normal
+2025-08-17,Electronic Health Record System,753,239.0,4,61,1,Normal
+2025-08-17,Appointment & Registration System,379,175.0,2,70,1,Normal
+2025-08-17,Hospital Network & Log Systems,2197,43.0,1,36,1,Normal
+2025-08-18,Hospital Management System,352,330.0,0,70,1,Normal
+2025-08-18,Electronic Health Record System,626,190.0,6,59,1,Normal
+2025-08-18,Appointment & Registration System,283,189.0,3,53,1,Normal
+2025-08-18,Hospital Network & Log Systems,2538,26.0,0,63,1,Normal
+2025-08-19,Hospital Management System,273,191.0,0,59,1,Normal
+2025-08-19,Electronic Health Record System,691,243.0,3,55,1,Normal
+2025-08-19,Appointment & Registration System,321,268.0,4,56,1,Normal
+2025-08-19,Hospital Network & Log Systems,1534,40.0,3,61,1,Normal
+2025-08-20,Hospital Management System,465,213.0,4,69,1,Normal
+2025-08-20,Electronic Health Record System,365,285.0,2,61,1,Normal
+2025-08-20,Appointment & Registration System,282,262.0,4,58,1,Normal
+2025-08-20,Hospital Network & Log Systems,2975,15.0,2,34,-1,Anomaly
+2025-08-21,Hospital Management System,440,178.0,0,48,1,Normal
+2025-08-21,Electronic Health Record System,595,267.0,4,66,1,Normal
+2025-08-21,Appointment & Registration System,194,125.0,1,58,1,Normal
+2025-08-21,Hospital Network & Log Systems,1174,11.0,1,34,1,Normal
+2025-08-22,Hospital Management System,413,183.0,2,59,1,Normal
+2025-08-22,Electronic Health Record System,679,232.0,1,79,1,Normal
+2025-08-22,Appointment & Registration System,261,175.0,1,53,1,Normal
+2025-08-22,Hospital Network & Log Systems,1873,35.0,3,40,1,Normal
+2025-08-23,Hospital Management System,474,205.0,1,66,1,Normal
+2025-08-23,Electronic Health Record System,494,337.0,2,54,1,Normal
+2025-08-23,Appointment & Registration System,170,295.0,0,60,1,Normal
+2025-08-23,Hospital Network & Log Systems,1121,30.0,2,37,1,Normal
+2025-08-24,Hospital Management System,380,349.0,1,70,1,Normal
+2025-08-24,Electronic Health Record System,513,240.0,1,66,1,Normal
+2025-08-24,Appointment & Registration System,326,144.0,2,60,1,Normal
+2025-08-24,Hospital Network & Log Systems,1758,37.0,1,36,1,Normal
+2025-08-25,Hospital Management System,542,1088.0,48,49,-1,Anomaly
+2025-08-25,Electronic Health Record System,412,195.0,1,51,1,Normal
+2025-08-25,Appointment & Registration System,389,172.0,1,46,1,Normal
+2025-08-25,Hospital Network & Log Systems,1803,48.0,3,46,1,Normal
+2025-08-26,Hospital Management System,223,250.0,4,62,1,Normal
+2025-08-26,Electronic Health Record System,552,271.0,2,66,1,Normal
+2025-08-26,Appointment & Registration System,356,242.0,3,50,1,Normal
+2025-08-26,Hospital Network & Log Systems,2706,23.0,3,46,1,Normal
+2025-08-27,Hospital Management System,304,346.0,3,72,1,Normal
+2025-08-27,Electronic Health Record System,473,1980.0,43,56,-1,Anomaly
+2025-08-27,Appointment & Registration System,190,240.0,1,70,1,Normal
+2025-08-27,Hospital Network & Log Systems,2185,45.0,1,32,1,Normal
+2025-08-28,Hospital Management System,1176,2478.0,1,95,-1,Anomaly
+2025-08-28,Electronic Health Record System,583,222.0,6,78,1,Normal
+2025-08-28,Appointment & Registration System,377,170.0,-1,53,1,Normal
+2025-08-28,Hospital Network & Log Systems,1970,35.0,2,31,1,Normal
+2025-08-29,Hospital Management System,323,235.0,2,56,1,Normal
+2025-08-29,Electronic Health Record System,582,215.0,4,80,1,Normal
+2025-08-29,Appointment & Registration System,332,229.0,0,44,1,Normal
+2025-08-29,Hospital Network & Log Systems,2175,16.0,1,38,1,Normal
+2025-08-30,Hospital Management System,590,262.0,4,75,1,Normal
+2025-08-30,Electronic Health Record System,335,252.0,4,75,1,Normal
+2025-08-30,Appointment & Registration System,225,208.0,4,49,1,Normal
+2025-08-30,Hospital Network & Log Systems,2974,39.0,2,30,-1,Anomaly
+2025-08-31,Hospital Management System,233,195.0,1,67,1,Normal
+2025-08-31,Electronic Health Record System,388,199.0,6,61,1,Normal
+2025-08-31,Appointment & Registration System,205,235.0,4,49,1,Normal
+2025-08-31,Hospital Network & Log Systems,1884,47.0,1,65,1,Normal
+2025-09-01,Hospital Management System,597,320.0,0,63,1,Normal
+2025-09-01,Electronic Health Record System,577,283.0,0,74,1,Normal
+2025-09-01,Appointment & Registration System,130,288.0,4,55,1,Normal
+2025-09-01,Hospital Network & Log Systems,1440,14.0,3,31,1,Normal
+2025-09-02,Hospital Management System,341,347.0,4,67,1,Normal
+2025-09-02,Electronic Health Record System,790,246.0,0,67,1,Normal
+2025-09-02,Appointment & Registration System,391,193.0,0,52,1,Normal
+2025-09-02,Hospital Network & Log Systems,2391,11.0,0,44,1,Normal
+2025-09-03,Hospital Management System,559,268.0,4,47,1,Normal
+2025-09-03,Electronic Health Record System,713,264.0,5,56,1,Normal
+2025-09-03,Appointment & Registration System,237,123.0,2,41,1,Normal
+2025-09-03,Hospital Network & Log Systems,1322,48.0,3,33,1,Normal
+2025-09-04,Hospital Management System,487,188.0,2,68,1,Normal
+2025-09-04,Electronic Health Record System,425,397.0,1,56,1,Normal
+2025-09-04,Appointment & Registration System,362,167.0,0,62,1,Normal
+2025-09-04,Hospital Network & Log Systems,1550,45.0,1,62,1,Normal
+2025-09-05,Hospital Management System,474,224.0,5,70,1,Normal
+2025-09-05,Electronic Health Record System,318,298.0,6,73,1,Normal
+2025-09-05,Appointment & Registration System,151,131.0,1,40,1,Normal
+2025-09-05,Hospital Network & Log Systems,2072,48.0,3,40,1,Normal
+2025-09-06,Hospital Management System,493,317.0,4,70,1,Normal
+2025-09-06,Electronic Health Record System,457,383.0,3,74,1,Normal
+2025-09-06,Appointment & Registration System,230,295.0,1,45,1,Normal
+2025-09-06,Hospital Network & Log Systems,1534,19.0,2,38,1,Normal
+2025-09-07,Hospital Management System,455,321.0,3,70,1,Normal
+2025-09-07,Electronic Health Record System,742,221.0,3,60,1,Normal
+2025-09-07,Appointment & Registration System,365,281.0,3,67,1,Normal
+2025-09-07,Hospital Network & Log Systems,2751,20.0,1,30,-1,Anomaly
+2025-09-08,Hospital Management System,555,174.0,5,48,1,Normal
+2025-09-08,Electronic Health Record System,685,311.0,4,50,1,Normal
+2025-09-08,Appointment & Registration System,350,197.0,2,65,1,Normal
+2025-09-08,Hospital Network & Log Systems,2645,17.0,2,54,1,Normal
+2025-09-09,Hospital Management System,567,161.0,5,64,1,Normal
+2025-09-09,Electronic Health Record System,655,1490.0,43,50,-1,Anomaly
+2025-09-09,Appointment & Registration System,331,263.0,3,62,1,Normal
+2025-09-09,Hospital Network & Log Systems,2571,24.0,2,60,1,Normal
+2025-09-10,Hospital Management System,567,350.0,2,72,1,Normal
+2025-09-10,Electronic Health Record System,679,355.0,2,51,1,Normal
+2025-09-10,Appointment & Registration System,294,178.0,4,60,1,Normal
+2025-09-10,Hospital Network & Log Systems,2019,17.0,1,50,1,Normal
+2025-09-11,Hospital Management System,271,303.0,5,65,1,Normal
+2025-09-11,Electronic Health Record System,762,286.0,4,66,1,Normal
+2025-09-11,Appointment & Registration System,158,250.0,4,48,1,Normal
+2025-09-11,Hospital Network & Log Systems,1817,29.0,3,32,1,Normal
+2025-09-12,Hospital Management System,216,164.0,5,59,1,Normal
+2025-09-12,Electronic Health Record System,607,332.0,4,73,1,Normal
+2025-09-12,Appointment & Registration System,148,270.0,2,51,1,Normal
+2025-09-12,Hospital Network & Log Systems,1188,10.0,1,58,1,Normal
+2025-09-13,Hospital Management System,456,215.0,1,73,1,Normal
+2025-09-13,Electronic Health Record System,645,182.0,4,59,1,Normal
+2025-09-13,Appointment & Registration System,207,253.0,0,42,1,Normal
+2025-09-13,Hospital Network & Log Systems,1952,48.0,3,43,1,Normal
+2025-09-14,Hospital Management System,242,209.0,1,46,1,Normal
+2025-09-14,Electronic Health Record System,640,338.0,5,62,1,Normal
+2025-09-14,Appointment & Registration System,369,158.0,1,64,1,Normal
+2025-09-14,Hospital Network & Log Systems,2023,33.0,2,51,1,Normal
+2025-09-15,Hospital Management System,369,154.0,5,66,1,Normal
+2025-09-15,Electronic Health Record System,569,180.0,2,76,1,Normal
+2025-09-15,Appointment & Registration System,189,271.0,2,49,1,Normal
+2025-09-15,Hospital Network & Log Systems,2601,32.0,2,49,1,Normal
+2025-09-16,Hospital Management System,381,229.0,2,53,1,Normal
+2025-09-16,Electronic Health Record System,456,265.0,6,75,1,Normal
+2025-09-16,Appointment & Registration System,296,194.0,4,57,1,Normal
+2025-09-16,Hospital Network & Log Systems,1262,46.0,2,43,1,Normal
+2025-09-17,Hospital Management System,477,224.0,3,72,1,Normal
+2025-09-17,Electronic Health Record System,454,300.0,2,75,1,Normal
+2025-09-17,Appointment & Registration System,298,262.0,4,55,1,Normal
+2025-09-17,Hospital Network & Log Systems,1581,49.0,2,53,1,Normal
+2025-09-18,Hospital Management System,315,332.0,0,60,1,Normal
+2025-09-18,Electronic Health Record System,529,213.0,1,51,1,Normal
+2025-09-18,Appointment & Registration System,289,229.0,2,46,1,Normal
+2025-09-18,Hospital Network & Log Systems,2305,1981.0,60,33,-1,Anomaly
+2025-09-19,Hospital Management System,257,162.0,2,57,1,Normal
+2025-09-19,Electronic Health Record System,702,189.0,1,74,1,Normal
+2025-09-19,Appointment & Registration System,299,202.0,1,50,1,Normal
+2025-09-20,Hospital Management System,257,249.0,4,50,1,Normal
+2025-09-20,Electronic Health Record System,762,379.0,1,71,1,Normal
+2025-09-20,Appointment & Registration System,113,244.0,1,40,1,Normal
+2025-09-20,Hospital Network & Log Systems,1628,30.0,0,52,1,Normal
+2025-09-21,Hospital Management System,359,216.0,3,50,1,Normal
+2025-09-21,Electronic Health Record System,627,283.0,4,73,1,Normal
+2025-09-21,Appointment & Registration System,232,205.0,0,54,1,Normal
+2025-09-21,Hospital Network & Log Systems,2614,39.0,1,39,1,Normal
+2025-09-22,Hospital Management System,374,210.0,1,74,1,Normal
+2025-09-22,Electronic Health Record System,696,257.0,1,70,1,Normal
+2025-09-22,Appointment & Registration System,367,2371.0,4,67,-1,Anomaly
+2025-09-22,Hospital Network & Log Systems,2669,50.0,2,31,-1,Anomaly
+2025-09-23,Hospital Management System,301,262.0,5,53,1,Normal
+2025-09-23,Electronic Health Record System,674,293.0,5,70,1,Normal
+2025-09-23,Appointment & Registration System,319,136.0,1,43,1,Normal
+2025-09-23,Hospital Network & Log Systems,2003,29.0,2,35,1,Normal
+2025-09-24,Hospital Management System,310,258.0,4,59,1,Normal
+2025-09-24,Electronic Health Record System,778,2419.0,1,65,-1,Anomaly
+2025-09-24,Appointment & Registration System,383,131.0,2,52,1,Normal
+2025-09-24,Hospital Network & Log Systems,2457,18.0,2,65,1,Normal
+2025-09-25,Hospital Management System,460,328.0,4,57,1,Normal
+2025-09-25,Electronic Health Record System,346,365.0,0,65,1,Normal
+2025-09-25,Appointment & Registration System,110,291.0,0,44,1,Normal
+2025-09-25,Hospital Network & Log Systems,2272,31.0,3,38,1,Normal
+2025-09-26,Hospital Management System,472,308.0,3,53,1,Normal
+2025-09-26,Electronic Health Record System,390,311.0,4,77,1,Normal
+2025-09-26,Appointment & Registration System,272,289.0,3,47,1,Normal
+2025-09-26,Hospital Network & Log Systems,1704,18.0,1,60,1,Normal
+2025-09-27,Hospital Management System,500,227.0,4,51,1,Normal
+2025-09-27,Electronic Health Record System,563,392.0,3,63,1,Normal
+2025-09-27,Appointment & Registration System,344,248.0,2,55,1,Normal
+2025-09-27,Hospital Network & Log Systems,1870,35.0,2,44,1,Normal
+2025-09-28,Hospital Management System,451,205.0,1,59,1,Normal
+2025-09-28,Electronic Health Record System,390,294.0,1,69,1,Normal
+2025-09-28,Appointment & Registration System,350,209.0,2,50,1,Normal
+2025-09-28,Hospital Network & Log Systems,2951,18.0,1,57,1,Normal
+2025-09-29,Hospital Management System,493,226.0,5,68,1,Normal
+2025-09-29,Electronic Health Record System,679,292.0,4,71,1,Normal
+2025-09-29,Appointment & Registration System,313,203.0,2,45,1,Normal
+2025-09-29,Hospital Network & Log Systems,2991,27.0,0,53,-1,Anomaly
+2025-09-30,Hospital Management System,512,313.0,0,49,1,Normal
+2025-09-30,Electronic Health Record System,323,198.0,6,72,1,Normal
+2025-09-30,Appointment & Registration System,327,238.0,3,51,1,Normal
+2025-09-30,Hospital Network & Log Systems,2616,21.0,2,34,1,Normal
+2025-10-01,Hospital Management System,531,300.0,2,55,1,Normal
+2025-10-01,Electronic Health Record System,501,387.0,1,59,1,Normal
+2025-10-01,Appointment & Registration System,339,246.0,2,45,1,Normal
+2025-10-01,Hospital Network & Log Systems,1458,36.0,0,63,1,Normal
+2025-10-02,Hospital Management System,267,279.0,1,75,1,Normal
+2025-10-02,Electronic Health Record System,430,251.0,1,59,1,Normal
+2025-10-02,Appointment & Registration System,213,124.0,3,52,1,Normal
+2025-10-02,Hospital Network & Log Systems,1428,36.0,0,64,1,Normal
+2025-10-03,Hospital Management System,346,259.0,1,46,1,Normal
+2025-10-03,Electronic Health Record System,776,342.0,6,62,1,Normal
+2025-10-03,Appointment & Registration System,391,269.0,3,58,1,Normal
+2025-10-03,Hospital Network & Log Systems,2340,21.0,0,33,-1,Anomaly
+2025-10-04,Hospital Management System,349,268.0,4,55,1,Normal
+2025-10-04,Electronic Health Record System,702,233.0,0,58,1,Normal
+2025-10-04,Appointment & Registration System,158,267.0,2,51,1,Normal
+2025-10-04,Hospital Network & Log Systems,1456,24.0,3,52,1,Normal
+2025-10-05,Hospital Management System,538,327.0,2,50,1,Normal
+2025-10-05,Electronic Health Record System,413,310.0,6,69,1,Normal
+2025-10-05,Appointment & Registration System,282,237.0,2,56,1,Normal
+2025-10-05,Hospital Network & Log Systems,1518,1792.0,56,42,-1,Anomaly
+2025-10-06,Hospital Management System,318,165.0,0,66,1,Normal
+2025-10-06,Electronic Health Record System,569,366.0,5,56,1,Normal
+2025-10-06,Appointment & Registration System,370,121.0,2,56,1,Normal
+2025-10-06,Hospital Network & Log Systems,1806,42.0,3,42,1,Normal
+2025-10-07,Hospital Management System,239,288.0,3,63,1,Normal
+2025-10-07,Electronic Health Record System,649,204.0,3,68,1,Normal
+2025-10-07,Appointment & Registration System,216,194.0,3,69,1,Normal
+2025-10-07,Hospital Network & Log Systems,2410,46.0,2,58,1,Normal
+2025-10-08,Hospital Management System,205,281.0,1,58,1,Normal
+2025-10-08,Electronic Health Record System,535,385.0,2,64,1,Normal
+2025-10-08,Appointment & Registration System,349,286.0,4,65,1,Normal
+2025-10-08,Hospital Network & Log Systems,2961,48.0,1,51,1,Normal
+2025-10-09,Hospital Management System,373,181.0,2,66,1,Normal
+2025-10-09,Electronic Health Record System,468,365.0,2,71,1,Normal
+2025-10-09,Appointment & Registration System,217,288.0,0,50,1,Normal
+2025-10-09,Hospital Network & Log Systems,1553,33.0,3,65,1,Normal
+2025-10-10,Hospital Management System,212,222.0,1,61,1,Normal
+2025-10-10,Electronic Health Record System,730,253.0,0,61,1,Normal
+2025-10-10,Appointment & Registration System,261,219.0,1,61,1,Normal
+2025-10-10,Hospital Network & Log Systems,2532,32.0,2,31,1,Normal
+2025-10-11,Hospital Management System,478,2348.0,0,99,-1,Anomaly
+2025-10-11,Electronic Health Record System,453,364.0,0,66,1,Normal
+2025-10-11,Appointment & Registration System,395,194.0,2,67,1,Normal
+2025-10-11,Hospital Network & Log Systems,1468,15.0,1,35,1,Normal
+2025-10-12,Hospital Management System,347,302.0,3,53,1,Normal
+2025-10-12,Electronic Health Record System,322,254.0,6,54,1,Normal
+2025-10-12,Appointment & Registration System,376,265.0,1,69,1,Normal
+2025-10-12,Hospital Network & Log Systems,2887,45.0,3,56,1,Normal
+2025-10-13,Hospital Management System,320,276.0,3,61,1,Normal
+2025-10-13,Electronic Health Record System,424,290.0,2,79,1,Normal
+2025-10-13,Appointment & Registration System,126,248.0,0,59,1,Normal
+2025-10-13,Hospital Network & Log Systems,1916,20.0,2,35,1,Normal
+2025-10-14,Hospital Management System,391,284.0,3,64,1,Normal
+2025-10-14,Electronic Health Record System,465,202.0,6,68,1,Normal
+2025-10-14,Appointment & Registration System,382,207.0,1,54,1,Normal
+2025-10-15,Hospital Management System,317,270.0,1,72,1,Normal
+2025-10-15,Electronic Health Record System,492,246.0,3,62,1,Normal
+2025-10-15,Appointment & Registration System,191,143.0,3,43,1,Normal
+2025-10-15,Hospital Network & Log Systems,1926,32.0,3,32,1,Normal
+2025-10-16,Hospital Management System,536,288.0,2,52,1,Normal
+2025-10-16,Electronic Health Record System,666,187.0,1,60,1,Normal
+2025-10-16,Appointment & Registration System,305,289.0,3,65,1,Normal
+2025-10-16,Hospital Network & Log Systems,2827,25.0,2,39,1,Normal
+2025-10-17,Hospital Management System,474,302.0,0,75,1,Normal
+2025-10-17,Electronic Health Record System,638,321.0,2,78,1,Normal
+2025-10-17,Appointment & Registration System,133,278.0,2,49,1,Normal
+2025-10-17,Hospital Network & Log Systems,2058,39.0,2,51,1,Normal
+2025-10-18,Hospital Management System,521,301.0,3,46,1,Normal
+2025-10-18,Electronic Health Record System,797,335.0,1,68,1,Normal
+2025-10-18,Appointment & Registration System,223,231.0,4,67,1,Normal
+2025-10-18,Hospital Network & Log Systems,2011,44.0,3,36,1,Normal
+2025-10-19,Hospital Management System,466,327.0,3,46,1,Normal
+2025-10-19,Electronic Health Record System,560,385.0,1,54,1,Normal
+2025-10-19,Appointment & Registration System,297,239.0,3,62,1,Normal
+2025-10-19,Hospital Network & Log Systems,2574,2490.0,3,57,-1,Anomaly
+2025-10-20,Hospital Management System,565,176.0,4,75,1,Normal
+2025-10-20,Electronic Health Record System,747,335.0,6,50,1,Normal
+2025-10-20,Appointment & Registration System,202,172.0,4,63,1,Normal
+2025-10-20,Hospital Network & Log Systems,1682,16.0,1,53,1,Normal
+2025-10-21,Hospital Management System,419,252.0,3,55,1,Normal
+2025-10-21,Electronic Health Record System,360,213.0,1,59,1,Normal
+2025-10-21,Appointment & Registration System,101,239.0,1,44,1,Normal
+2025-10-21,Hospital Network & Log Systems,2444,14.0,2,45,1,Normal
+2025-10-22,Hospital Management System,580,325.0,5,45,1,Normal
+2025-10-22,Electronic Health Record System,361,262.0,1,76,1,Normal
+2025-10-22,Appointment & Registration System,309,248.0,1,50,1,Normal
+2025-10-22,Hospital Network & Log Systems,1709,48.0,1,60,1,Normal
+2025-10-23,Hospital Management System,252,293.0,1,66,1,Normal
+2025-10-23,Electronic Health Record System,508,279.0,3,52,1,Normal
+2025-10-23,Appointment & Registration System,374,242.0,0,40,1,Normal
+2025-10-23,Hospital Network & Log Systems,2235,23.0,3,64,1,Normal
+2025-10-24,Hospital Management System,474,201.0,2,52,1,Normal
+2025-10-24,Electronic Health Record System,582,197.0,1,54,1,Normal
+2025-10-24,Appointment & Registration System,185,277.0,3,46,1,Normal
+2025-10-24,Hospital Network & Log Systems,2798,21.0,0,37,1,Normal
+2025-10-25,Hospital Management System,449,234.0,2,64,1,Normal
+2025-10-25,Electronic Health Record System,651,212.0,3,55,1,Normal
+2025-10-25,Appointment & Registration System,264,132.0,1,65,1,Normal
+2025-10-25,Hospital Network & Log Systems,2775,29.0,0,42,1,Normal
+2025-10-26,Hospital Management System,358,339.0,4,65,1,Normal
+2025-10-26,Electronic Health Record System,640,302.0,4,56,1,Normal
+2025-10-26,Appointment & Registration System,341,151.0,3,70,1,Normal
+2025-10-26,Hospital Network & Log Systems,1185,15.0,2,40,1,Normal
+2025-10-27,Hospital Management System,1054,1541.0,3,97,-1,Anomaly
+2025-10-27,Electronic Health Record System,800,365.0,3,52,1,Normal
+2025-10-27,Appointment & Registration System,245,270.0,1,54,1,Normal
+2025-10-27,Hospital Network & Log Systems,2319,32.0,0,54,1,Normal
+2025-10-28,Hospital Management System,570,185.0,4,55,1,Normal
+2025-10-28,Electronic Health Record System,340,225.0,6,50,1,Normal
+2025-10-28,Appointment & Registration System,143,127.0,2,57,1,Normal
+2025-10-28,Hospital Network & Log Systems,2646,27.0,0,54,1,Normal
+2025-10-29,Hospital Management System,264,166.0,5,47,1,Normal
+2025-10-29,Electronic Health Record System,669,263.0,5,54,1,Normal
+2025-10-29,Appointment & Registration System,115,295.0,0,46,1,Normal
+2025-10-29,Hospital Network & Log Systems,2900,35.0,1,55,1,Normal
+2025-10-30,Hospital Management System,430,2533.0,4,50,-1,Anomaly
+2025-10-30,Electronic Health Record System,785,221.0,0,59,1,Normal
+2025-10-30,Appointment & Registration System,140,219.0,0,43,1,Normal
+2025-10-30,Hospital Network & Log Systems,1749,38.0,1,52,1,Normal
+2025-10-31,Hospital Management System,237,307.0,1,62,1,Normal
+2025-10-31,Electronic Health Record System,668,366.0,2,73,1,Normal
+2025-10-31,Appointment & Registration System,196,218.0,1,48,1,Normal
+2025-10-31,Hospital Network & Log Systems,1478,21.0,2,55,1,Normal
+2025-11-01,Hospital Management System,245,166.0,1,52,1,Normal
+2025-11-01,Electronic Health Record System,476,372.0,5,51,1,Normal
+2025-11-01,Appointment & Registration System,204,190.0,4,40,1,Normal
+2025-11-01,Hospital Network & Log Systems,1458,36.0,0,59,1,Normal
+2025-11-02,Hospital Management System,405,341.0,4,45,1,Normal
+2025-11-02,Electronic Health Record System,369,316.0,1,74,1,Normal
+2025-11-02,Appointment & Registration System,260,221.0,4,41,1,Normal
+2025-11-02,Hospital Network & Log Systems,1234,31.0,1,43,1,Normal
+2025-11-03,Electronic Health Record System,455,365.0,3,73,1,Normal
+2025-11-03,Appointment & Registration System,162,246.0,3,63,1,Normal
+2025-11-03,Hospital Network & Log Systems,1756,30.0,2,35,1,Normal
+2025-11-04,Hospital Management System,297,192.0,-1,63,1,Normal
+2025-11-04,Electronic Health Record System,321,388.0,6,76,1,Normal
+2025-11-04,Appointment & Registration System,379,132.0,4,70,1,Normal
+2025-11-04,Hospital Network & Log Systems,1035,46.0,3,62,1,Normal
+2025-11-05,Hospital Management System,440,200.0,1,71,1,Normal
+2025-11-05,Electronic Health Record System,511,188.0,5,70,1,Normal
+2025-11-05,Appointment & Registration System,169,194.0,2,61,1,Normal
+2025-11-05,Hospital Network & Log Systems,1013,12.0,1,54,1,Normal
+2025-11-06,Hospital Management System,504,231.0,2,52,1,Normal
+2025-11-06,Electronic Health Record System,347,244.0,3,59,1,Normal
+2025-11-06,Appointment & Registration System,233,300.0,3,40,1,Normal
+2025-11-06,Hospital Network & Log Systems,2765,43.0,1,49,1,Normal
+2025-11-07,Hospital Management System,503,290.0,3,62,1,Normal
+2025-11-07,Electronic Health Record System,594,370.0,3,67,1,Normal
+2025-11-07,Appointment & Registration System,399,233.0,2,67,1,Normal
+2025-11-07,Hospital Network & Log Systems,1344,17.0,2,39,1,Normal
+2025-11-08,Hospital Management System,355,236.0,4,47,1,Normal
+2025-11-08,Electronic Health Record System,698,249.0,1,80,1,Normal
+2025-11-08,Appointment & Registration System,243,274.0,0,47,1,Normal
+2025-11-08,Hospital Network & Log Systems,1544,26.0,2,56,1,Normal
+2025-11-09,Hospital Management System,434,239.0,5,53,1,Normal
+2025-11-09,Electronic Health Record System,772,314.0,2,61,1,Normal
+2025-11-09,Appointment & Registration System,114,300.0,1,59,1,Normal
+2025-11-09,Hospital Network & Log Systems,1112,23.0,0,42,1,Normal
+2025-11-10,Hospital Management System,515,216.0,4,59,1,Normal
+2025-11-10,Electronic Health Record System,696,396.0,6,54,1,Normal
+2025-11-10,Appointment & Registration System,204,184.0,1,69,1,Normal
+2025-11-10,Hospital Network & Log Systems,1269,43.0,2,65,1,Normal
+2025-11-11,Hospital Management System,556,301.0,5,53,1,Normal
+2025-11-11,Electronic Health Record System,523,308.0,3,62,1,Normal
+2025-11-11,Appointment & Registration System,160,130.0,4,48,1,Normal
+2025-11-11,Hospital Network & Log Systems,2167,27.0,0,45,1,Normal
+2025-11-12,Hospital Management System,384,246.0,5,50,1,Normal
+2025-11-12,Electronic Health Record System,704,274.0,0,52,1,Normal
+2025-11-12,Appointment & Registration System,105,168.0,2,60,1,Normal
+2025-11-12,Hospital Network & Log Systems,1813,19.0,2,36,1,Normal
+2025-11-13,Hospital Management System,245,156.0,1,71,1,Normal
+2025-11-13,Electronic Health Record System,531,320.0,3,53,1,Normal
+2025-11-13,Appointment & Registration System,213,212.0,2,60,1,Normal
+2025-11-13,Hospital Network & Log Systems,1438,1757.0,52,61,-1,Anomaly
+2025-11-14,Hospital Management System,296,348.0,0,50,1,Normal
+2025-11-14,Electronic Health Record System,708,187.0,4,51,1,Normal
+2025-11-14,Appointment & Registration System,223,202.0,4,55,1,Normal
+2025-11-14,Hospital Network & Log Systems,2894,14.0,0,64,-1,Anomaly
+2025-11-15,Hospital Management System,331,178.0,5,66,1,Normal
+2025-11-15,Electronic Health Record System,500,254.0,6,75,1,Normal
+2025-11-15,Appointment & Registration System,367,199.0,2,49,1,Normal
+2025-11-15,Hospital Network & Log Systems,1987,34.0,2,37,1,Normal
+2025-11-16,Hospital Management System,383,272.0,1,45,1,Normal
+2025-11-16,Electronic Health Record System,738,337.0,2,72,1,Normal
+2025-11-16,Appointment & Registration System,326,157.0,3,43,1,Normal
+2025-11-16,Hospital Network & Log Systems,2723,43.0,3,64,-1,Anomaly
+2025-11-17,Hospital Management System,272,255.0,1,67,1,Normal
+2025-11-17,Electronic Health Record System,409,205.0,1,78,1,Normal
+2025-11-17,Appointment & Registration System,165,277.0,2,42,1,Normal
+2025-11-17,Hospital Network & Log Systems,1441,42.0,2,62,1,Normal
+2025-11-18,Hospital Management System,201,215.0,3,72,1,Normal
+2025-11-18,Electronic Health Record System,508,202.0,6,65,1,Normal
+2025-11-18,Appointment & Registration System,337,212.0,0,47,1,Normal
+2025-11-18,Hospital Network & Log Systems,2665,32.0,2,62,1,Normal
+2025-11-19,Hospital Management System,912,2012.0,3,95,-1,Anomaly
+2025-11-19,Electronic Health Record System,778,287.0,1,58,1,Normal
+2025-11-19,Appointment & Registration System,201,273.0,4,43,1,Normal
+2025-11-19,Hospital Network & Log Systems,2226,14.0,1,54,1,Normal
+2025-11-20,Hospital Management System,316,287.0,3,73,1,Normal
+2025-11-20,Electronic Health Record System,545,226.0,4,57,1,Normal
+2025-11-20,Appointment & Registration System,381,166.0,2,47,1,Normal
+2025-11-20,Hospital Network & Log Systems,1409,50.0,1,57,1,Normal
+2025-11-21,Hospital Management System,230,335.0,1,63,1,Normal
+2025-11-21,Electronic Health Record System,436,305.0,0,67,1,Normal
+2025-11-21,Appointment & Registration System,264,258.0,2,59,1,Normal
+2025-11-21,Hospital Network & Log Systems,2893,37.0,2,30,-1,Anomaly
+2025-11-22,Hospital Management System,377,192.0,0,65,1,Normal
+2025-11-22,Electronic Health Record System,393,250.0,6,63,1,Normal
+2025-11-22,Appointment & Registration System,282,229.0,3,46,1,Normal
+2025-11-22,Hospital Network & Log Systems,2314,15.0,2,54,1,Normal
+2025-11-23,Hospital Management System,589,325.0,4,70,1,Normal
+2025-11-23,Electronic Health Record System,379,221.0,3,60,1,Normal
+2025-11-23,Appointment & Registration System,315,203.0,3,67,1,Normal
+2025-11-23,Hospital Network & Log Systems,2740,17.0,2,57,1,Normal
+2025-11-24,Hospital Management System,329,327.0,5,69,1,Normal
+2025-11-24,Electronic Health Record System,727,298.0,6,61,1,Normal
+2025-11-24,Appointment & Registration System,312,238.0,0,66,1,Normal
+2025-11-24,Hospital Network & Log Systems,1781,29.0,1,46,1,Normal
+2025-11-25,Hospital Management System,556,310.0,2,65,1,Normal
+2025-11-25,Electronic Health Record System,583,270.0,6,75,1,Normal
+2025-11-25,Appointment & Registration System,236,214.0,0,53,1,Normal
+2025-11-25,Hospital Network & Log Systems,1897,19.0,1,38,1,Normal
+2025-11-26,Hospital Management System,406,244.0,3,48,1,Normal
+2025-11-26,Electronic Health Record System,446,322.0,6,72,1,Normal
+2025-11-26,Appointment & Registration System,326,257.0,4,40,1,Normal
+2025-11-26,Hospital Network & Log Systems,1147,23.0,3,52,1,Normal
+2025-11-27,Hospital Management System,318,183.0,5,64,1,Normal
+2025-11-27,Electronic Health Record System,766,302.0,3,63,1,Normal
+2025-11-27,Appointment & Registration System,388,155.0,3,65,1,Normal
+2025-11-27,Hospital Network & Log Systems,1705,35.0,2,49,1,Normal
+2025-11-28,Hospital Management System,220,332.0,5,45,1,Normal
+2025-11-28,Electronic Health Record System,641,367.0,6,69,1,Normal
+2025-11-28,Appointment & Registration System,399,229.0,1,46,1,Normal
+2025-11-28,Hospital Network & Log Systems,2683,16.0,1,44,1,Normal
+2025-11-29,Hospital Management System,549,312.0,2,55,1,Normal
+2025-11-29,Electronic Health Record System,739,268.0,0,53,1,Normal
+2025-11-29,Appointment & Registration System,286,185.0,3,49,1,Normal
+2025-11-29,Hospital Network & Log Systems,2160,11.0,2,33,1,Normal
+2025-11-30,Hospital Management System,359,226.0,2,50,1,Normal
+2025-11-30,Electronic Health Record System,540,270.0,4,50,1,Normal
+2025-11-30,Appointment & Registration System,174,268.0,1,42,1,Normal
+2025-11-30,Hospital Network & Log Systems,2301,23.0,2,62,1,Normal
+2025-12-01,Hospital Management System,254,211.0,4,61,1,Normal
+2025-12-01,Electronic Health Record System,655,342.0,3,53,1,Normal
+2025-12-01,Appointment & Registration System,262,299.0,4,46,1,Normal
+2025-12-01,Hospital Network & Log Systems,2535,31.0,3,64,1,Normal
+2025-12-02,Hospital Management System,226,248.0,0,75,1,Normal
+2025-12-02,Electronic Health Record System,446,340.0,4,62,1,Normal
+2025-12-02,Appointment & Registration System,267,153.0,1,53,1,Normal
+2025-12-02,Hospital Network & Log Systems,1490,13.0,3,50,1,Normal
+2025-12-03,Hospital Management System,574,152.0,0,63,1,Normal
+2025-12-03,Electronic Health Record System,663,357.0,2,65,1,Normal
+2025-12-03,Appointment & Registration System,291,189.0,3,54,1,Normal
+2025-12-03,Hospital Network & Log Systems,1686,27.0,2,32,1,Normal
+2025-12-04,Hospital Management System,367,336.0,5,68,1,Normal
+2025-12-04,Electronic Health Record System,518,321.0,1,74,1,Normal
+2025-12-04,Appointment & Registration System,133,286.0,1,54,1,Normal
+2025-12-04,Hospital Network & Log Systems,2818,19.0,1,52,1,Normal
+2025-12-05,Hospital Management System,451,267.0,0,62,1,Normal
+2025-12-05,Electronic Health Record System,639,192.0,6,74,1,Normal
+2025-12-05,Appointment & Registration System,261,242.0,4,62,1,Normal
+2025-12-05,Hospital Network & Log Systems,2422,14.0,1,54,1,Normal
+2025-12-06,Hospital Management System,283,238.0,2,67,1,Normal
+2025-12-06,Electronic Health Record System,668,392.0,5,78,1,Normal
+2025-12-06,Appointment & Registration System,355,217.0,2,70,1,Normal
+2025-12-06,Hospital Network & Log Systems,2996,34.0,2,35,1,Normal
+2025-12-07,Hospital Management System,205,246.0,3,45,1,Normal
+2025-12-07,Electronic Health Record System,656,331.0,6,65,1,Normal
+2025-12-07,Appointment & Registration System,295,134.0,3,41,1,Normal
+2025-12-07,Hospital Network & Log Systems,2762,34.0,1,46,1,Normal
+2025-12-08,Hospital Management System,574,2087.0,1,97,-1,Anomaly
+2025-12-08,Electronic Health Record System,512,199.0,3,67,1,Normal
+2025-12-08,Appointment & Registration System,292,186.0,4,48,1,Normal
+2025-12-08,Hospital Network & Log Systems,2301,11.0,1,36,1,Normal
+2025-12-09,Hospital Management System,484,168.0,5,66,1,Normal
+2025-12-09,Electronic Health Record System,727,216.0,6,70,1,Normal
+2025-12-09,Appointment & Registration System,211,192.0,1,54,1,Normal
+2025-12-09,Hospital Network & Log Systems,1917,39.0,2,33,1,Normal
+2025-12-10,Hospital Management System,475,188.0,2,60,1,Normal
+2025-12-10,Electronic Health Record System,703,361.0,0,71,1,Normal
+2025-12-10,Appointment & Registration System,393,286.0,2,45,1,Normal
+2025-12-10,Hospital Network & Log Systems,1277,11.0,0,65,1,Normal
+2025-12-11,Hospital Management System,286,259.0,4,75,1,Normal
+2025-12-11,Electronic Health Record System,759,360.0,4,50,1,Normal
+2025-12-11,Appointment & Registration System,346,240.0,1,50,1,Normal
+2025-12-11,Hospital Network & Log Systems,2109,19.0,0,42,1,Normal
+2025-12-12,Hospital Management System,260,284.0,0,71,1,Normal
+2025-12-12,Electronic Health Record System,384,377.0,3,78,1,Normal
+2025-12-12,Appointment & Registration System,350,178.0,0,40,1,Normal
+2025-12-12,Hospital Network & Log Systems,2526,50.0,1,33,-1,Anomaly
+2025-12-13,Hospital Management System,241,258.0,0,64,1,Normal
+2025-12-13,Electronic Health Record System,557,294.0,2,75,1,Normal
+2025-12-13,Hospital Network & Log Systems,1437,15.0,1,39,1,Normal
+2025-12-14,Hospital Management System,341,299.0,3,64,1,Normal
+2025-12-14,Electronic Health Record System,398,386.0,1,53,1,Normal
+2025-12-14,Appointment & Registration System,258,287.0,4,61,1,Normal
+2025-12-14,Hospital Network & Log Systems,2459,35.0,0,48,1,Normal
+2025-12-15,Hospital Management System,583,307.0,4,54,1,Normal
+2025-12-15,Electronic Health Record System,365,354.0,6,71,1,Normal
+2025-12-15,Appointment & Registration System,350,225.0,1,49,1,Normal
+2025-12-15,Hospital Network & Log Systems,2188,30.0,3,34,1,Normal
+2025-12-16,Hospital Management System,230,317.0,1,68,1,Normal
+2025-12-16,Electronic Health Record System,787,210.0,1,70,1,Normal
+2025-12-16,Appointment & Registration System,304,203.0,4,64,1,Normal
+2025-12-16,Hospital Network & Log Systems,2377,39.0,3,61,1,Normal
+2025-12-17,Hospital Management System,217,194.0,5,74,1,Normal
+2025-12-17,Electronic Health Record System,692,212.0,1,62,1,Normal
+2025-12-17,Appointment & Registration System,266,204.0,2,40,1,Normal
+2025-12-17,Hospital Network & Log Systems,2014,16.0,3,41,1,Normal
+2025-12-18,Hospital Management System,431,237.0,3,55,1,Normal
+2025-12-18,Electronic Health Record System,441,309.0,2,73,1,Normal
+2025-12-18,Appointment & Registration System,356,196.0,2,64,1,Normal
+2025-12-18,Hospital Network & Log Systems,2880,44.0,0,57,1,Normal
+2025-12-19,Hospital Management System,532,337.0,4,58,1,Normal
+2025-12-19,Electronic Health Record System,749,325.0,2,61,1,Normal
+2025-12-19,Appointment & Registration System,241,167.0,4,58,1,Normal
+2025-12-19,Hospital Network & Log Systems,2690,25.0,1,41,1,Normal
+2025-12-20,Hospital Management System,288,167.0,1,49,1,Normal
+2025-12-20,Electronic Health Record System,353,187.0,1,55,1,Normal
+2025-12-20,Appointment & Registration System,228,194.0,4,41,1,Normal
+2025-12-20,Hospital Network & Log Systems,2156,39.0,2,54,1,Normal
+2025-12-21,Hospital Management System,251,275.0,5,72,1,Normal
+2025-12-21,Electronic Health Record System,630,255.0,3,64,1,Normal
+2025-12-21,Appointment & Registration System,259,264.0,2,60,1,Normal
+2025-12-21,Hospital Network & Log Systems,2384,15.0,0,52,1,Normal
+2025-12-22,Hospital Management System,387,327.0,1,45,1,Normal
+2025-12-22,Electronic Health Record System,414,299.0,3,71,1,Normal
+2025-12-22,Appointment & Registration System,231,161.0,1,65,1,Normal
+2025-12-23,Hospital Management System,380,334.0,4,67,1,Normal
+2025-12-23,Appointment & Registration System,230,233.0,4,54,1,Normal
+2025-12-23,Hospital Network & Log Systems,2976,50.0,1,49,-1,Anomaly
+2025-12-24,Hospital Management System,512,186.0,4,71,1,Normal
+2025-12-24,Electronic Health Record System,704,399.0,2,62,1,Normal
+2025-12-24,Appointment & Registration System,174,227.0,1,66,1,Normal
+2025-12-24,Hospital Network & Log Systems,1814,34.0,2,55,1,Normal
+2025-12-25,Electronic Health Record System,638,206.0,3,55,1,Normal
+2025-12-25,Appointment & Registration System,134,136.0,2,48,1,Normal
+2025-12-25,Hospital Network & Log Systems,2531,28.0,1,30,-1,Anomaly
+2025-12-26,Hospital Management System,509,165.0,2,66,1,Normal
+2025-12-26,Electronic Health Record System,452,372.0,4,62,1,Normal
+2025-12-26,Appointment & Registration System,168,291.0,1,46,1,Normal
+2025-12-26,Hospital Network & Log Systems,2171,21.0,0,58,1,Normal
+2025-12-27,Hospital Management System,399,350.0,3,69,1,Normal
+2025-12-27,Electronic Health Record System,638,273.0,1,73,1,Normal
+2025-12-27,Appointment & Registration System,202,297.0,4,55,1,Normal
+2025-12-27,Hospital Network & Log Systems,1970,32.0,1,57,1,Normal
+2025-12-28,Hospital Management System,388,228.0,4,66,1,Normal
+2025-12-28,Electronic Health Record System,310,384.0,4,68,1,Normal
+2025-12-28,Appointment & Registration System,229,146.0,1,51,1,Normal
+2025-12-28,Hospital Network & Log Systems,2393,11.0,3,64,1,Normal
+2025-12-29,Hospital Management System,400,341.0,0,71,1,Normal
+2025-12-29,Electronic Health Record System,610,370.0,3,60,1,Normal
+2025-12-29,Appointment & Registration System,189,268.0,1,59,1,Normal
+2025-12-29,Hospital Network & Log Systems,2241,20.0,1,62,1,Normal
+2025-12-30,Hospital Management System,284,193.0,1,55,1,Normal
+2025-12-30,Electronic Health Record System,589,210.0,1,80,1,Normal
+2025-12-30,Appointment & Registration System,377,266.0,4,55,1,Normal
+2025-12-30,Hospital Network & Log Systems,1960,37.0,3,65,1,Normal
+2025-12-31,Hospital Management System,555,202.0,3,56,1,Normal
+2025-12-31,Electronic Health Record System,712,363.0,6,50,1,Normal
+2025-12-31,Appointment & Registration System,121,145.0,3,45,1,Normal
+2025-12-31,Hospital Network & Log Systems,2463,33.0,2,57,1,Normal
